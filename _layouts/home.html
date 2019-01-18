@@ -10,7 +10,7 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <!--<h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
@@ -27,8 +27,8 @@ layout: default
       </li>
       {%- endfor -%}
     </ul>
-    -->
 
+<!--
     {% for category in site.categories %}
          <div class="catbloc" id="{{ category | first | remove:' ' }}">
               <h2>{{ category | first }}</h2>
@@ -49,6 +49,7 @@ layout: default
              </ul>
          </div>
     {% endfor %}
+    -->
 
   {%- endif -%}
 

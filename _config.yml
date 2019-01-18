@@ -23,7 +23,7 @@ github_username:  jakobschumacher
 
 # Build settings
 markdown: kramdown
-theme: github-pages
+theme: minima
 plugins:
   - jekyll-feed
 

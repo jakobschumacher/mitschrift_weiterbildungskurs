@@ -47,6 +47,8 @@ Aufgaben zwischen den Ländern.
 * Beschreibung von "Old public health" auf Wikipedia: Im Mittelpunkt von Old Public Health stehen die Prävention und Versorgung von Problemgruppen. Die wissenschaftliche Basis konstituieren sowohl die Medizin mit der Theoretischen Medizin, klinisch-praktischen Medizin, Hygiene, Sozialmedizin und Epidemiologie, als auch die Sozialwissenschaften mit der Gesundheitssoziologie und -psychologie.
 * Beschreibung von "New public health" auf Wikipedia: Im Mittelpunkt von New Public Health steht seit etwa 1980 die gesamte Gesundheitspolitik. Ergänzt wird Old Public Health durch die Gesundheitssystemforschung und die Versorgungsforschung, bei der sich Prävention, Gesundheitsförderung, Kuration/Therapie, Rehabilitation und Pflege systematisch verzahnen. Biomedizinische und sozialwissenschaftliche Arbeitsweisen ergänzen sich gegenseitig. Zum Kranz der Bezugsdisziplinen sind die Wirtschaftswissenschaften mit der Gesundheitsökonomie, die Politikwissenschaften mit der Gesundheitspolitik und die Managementwissenschaften mit dem Qualitätsmanagement hinzugekommen.
 * Hierzu gibt es einen Vortrag von Manfred Wildner (Alte und neue Strukturen von Public Health in Deutschland)[https://www.thieme-connect.com/products/ejournals/pdf/10.1055/s-0043-118786.pdf]
+* [The 10 Essential Public Health Operations](http://www.euro.who.int/en/health-topics/Health-systems/public-health-services/policy/the-10-essential-public-health-operations)
+* [Health in all policies](https://www.who.int/healthpromotion/frameworkforcountryaction/en/)
 
 
 ## Fachbereiche im Gesundheitsamt

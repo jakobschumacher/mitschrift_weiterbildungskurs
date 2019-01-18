@@ -5,8 +5,6 @@ date:   2019-01-17 08:29:49 +0100
 categories: Erste-Woche
 #permalink: /europa-und-gesundheit/
 ---
-Dozentin: Elke Jakubowski [e.jakubowski@me.com](e.jakubowski@me.com)
-[LinkdIn](https://de.linkedin.com/in/dr-med-elke-jakubowski-m-sc-739b4ba)
 
 ## Wichtigste Informationen
 * [Vergleich Impfsysteme](http://www.euro.who.int/__data/assets/pdf_file/0008/386684/vaccination-report-eng.pdf)
