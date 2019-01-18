@@ -17,7 +17,7 @@ title: Mitschrift 14. Weiterbildungskurs
 email: jakob.schumacher@web.de
 description: >- # this means to ignore newlines until "baseurl:"
   Meine persönlichen Mitschriften des 14 Weiterbildungskurs zum Facharzt für öffentliches Gesundheitswesen
-baseurl: "mitschrift_weiterbildungskurs/" # the subpath of your site, e.g. /blog
+baseurl: "/mitschrift_weiterbildungskurs" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jakobschumacher
 
