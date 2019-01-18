@@ -53,7 +53,7 @@ Aufgaben zwischen den Ländern.
 
 ## Fachbereiche im Gesundheitsamt
 <div class="mermaid">
-graph TD;
+graph LR;
     Amtsleitung-->Verwaltung;
     Amtsleitung-->B["Medizinalwesen, <br> Amtsärztlicher Dienst"];
     Amtsleitung-->Infektionsschutz;
@@ -61,14 +61,6 @@ graph TD;
     Amtsleitung-->E["Sozialpsychiatrischer <br> Dienst"];
     Amtsleitung-->F["Gesundheitsförderung, <br> Berichterstattung"];
 </div>
-
-* Gesundheitsberichtserstattung
-* Medizinaluntersuchung
-* Infektionsschutz
-* Gutachten und Sozialmedizin
-* Sozialpsychiatrie
-* Gesundheits im Kindes- und Jugendalter
-* Zahnährztlicher Bereich
 
 ## Weiterbildungsordnung
 * Die Bundsärztekammer hat die neue Musterweiterbildungsordnung beschlossen
