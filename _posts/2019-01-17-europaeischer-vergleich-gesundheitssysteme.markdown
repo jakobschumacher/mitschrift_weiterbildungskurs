@@ -3,7 +3,7 @@ layout: post
 title:  "Europa und Gesundheit"
 date:   2019-01-17 08:29:49 +0100
 categories: Erste-Woche
-#permalink: /europa-und-gesundheit/
+permalink: europa-und-gesundheit/
 ---
 
 ## Wichtigste Informationen

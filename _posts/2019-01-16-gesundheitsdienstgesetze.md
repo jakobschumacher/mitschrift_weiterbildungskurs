@@ -3,7 +3,7 @@ layout: post
 title:  "Gesundheitsdienstgesetze"
 date:   2019-01-16 08:29:49 +0100
 categories: Erste-Woche
-#permalink: /gesundheitsdienstgesetze
+permalink: gesundheitsdienstgesetze/
 ---
 
 ## Der Vergleich
@@ -20,7 +20,7 @@ Gesundheitsdienstgesetze sind sehr divers
 * Der Föderalismus ist auch eine Folge des Dritten Reiches
 * Aber auch vor dem Dritten Reich gab es schon föderale Strukturen.
 * Johann Peter Frank zählt als Vater der Gesundheitsämter
-* Um 1890 gab es [Kreisäzrte](https://de.wikipedia.org/wiki/Kreisarzt). 1899 gab es ein Kreisarztgesetz das ihnen sozialhygieneische Aufgaben zuweis
+* Um 1890 gab es [Kreisärzte](https://de.wikipedia.org/wiki/Kreisarzt). 1899 gab es ein Kreisarztgesetz das ihnen sozialhygieneische Aufgaben zuweis
 * Im Juli 1934 gab es das Gesetz über die Vereinheitlichung des Gesundheitswesens“ (GVG) vom 3. Juli 1934. Dadurch wurden die ersten Gesundheitsämter, Gesundheitsamt genannt.
 * GVG und DVO gelten in allen Ländern der Bundesrepublik als eigenständige Gesetze
 * Die europäische Gemeinschaft hat mit den Verträgen von Maastricht die europäische Integration vorangetrieben
