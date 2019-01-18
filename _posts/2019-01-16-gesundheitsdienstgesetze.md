@@ -3,7 +3,7 @@ layout: post
 title:  "Gesundheitsdienstgesetze"
 date:   2019-01-16 08:29:49 +0100
 categories: Erste-Woche
-permalink: /gesundheitsdienstgesetze
+#permalink: /gesundheitsdienstgesetze
 ---
 
 ## Der Vergleich
