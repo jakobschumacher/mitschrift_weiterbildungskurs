@@ -6,11 +6,12 @@ categories: Erste-Woche
 permalink: das-oeffentliche-gesundheitswesen/
 
 ---
-## Gesundheitsdefinition
-* Gesundheit ist ein Zustand vollständigen körperlichen, psychischen und sozialen Wohlbefindens und nicht nur das Freisein von Beschwerden und Krankheit
+## Definitionen
+* __Gesundheit__ ist ein Zustand vollständigen körperlichen, psychischen und sozialen Wohlbefindens und nicht nur das Freisein von Beschwerden und Krankheit
+* Das __Gesundheitswesen__ umfasst alle Personen, Organisationen, Einrichtungen, Regelungen und Prozesse, deren Aufgabe die Förderung und Erhaltung der Gesundheit sowie deren Sicherung durch Vorbeugung und Behandlung von Krankheiten und Verletzungen ist.
+* __Öffentliche Gesundheitsdienst__ [Wurde leider nicht definiert]
 
 ## Gesundheitswesen
-* Definition: Das Gesundheitssystem oder Gesundheitswesen umfasst alle Personen, Organisationen, Einrichtungen, Regelungen und Prozesse, deren Aufgabe die Förderung und Erhaltung der Gesundheit sowie deren Sicherung durch Vorbeugung und Behandlung von Krankheiten und Verletzungen ist.
 * Gesetzliche Krankenkassen arbeiten nach dem Sachleistungsprinzip, Private Krankenkassen arbeiten nach dem Kostenerstattungsprinzip
 * Es gibt drei Säulen im öffentlichen Gesundheitswesen
    * Ambulante Versorgung
@@ -30,16 +31,10 @@ permalink: das-oeffentliche-gesundheitswesen/
 * Die Organisation des ÖGD ist in den jeweiligen Landesgesetzen beschrieben
 * Nicht zum öffentlichen Gesundheitsdienst gehören Krankenkassen
 
-## Einrichtungen Public Health
-* [Der Wegweiser der BzGA listet in der Gesundheitsförderung tätige Organisationen auf](https://www.wegweiser.bzga.de/?uid=7400975461f65f8a6d8cbf310a1d5518&id=angebote)
-
-
 ## Politische Leitung des ÖGD
 * Die Gesundheitsministerkonferenz ist das wichtiges Gremium der fachlichen und politischen Beratung und Abstimmung gesundheitspolitischer Themen und
 Aufgaben zwischen den Ländern.
 * Vorbereitend sind die Amtschefkonferenz und die Arbeitsgemeinschaft der Obersten Landesgesundheitsbehörden
-
-
 
 ## Leitbild des öffentlichen Gesundheitsdienstes
 * [Leitbild ÖGD](https://www.akademie-oegw.de/fileadmin/customers-data/Leitbild_OEGD/Leitbild_final_2018.pdf)

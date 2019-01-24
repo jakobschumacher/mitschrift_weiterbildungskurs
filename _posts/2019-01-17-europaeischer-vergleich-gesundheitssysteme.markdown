@@ -6,10 +6,9 @@ categories: Erste-Woche
 permalink: europa-und-gesundheit/
 ---
 
-## Wichtigste Informationen
+## Resourcen 
 * [Vergleich Impfsysteme](http://www.euro.who.int/__data/assets/pdf_file/0008/386684/vaccination-report-eng.pdf)
 * [Liste der Health-System-Reviews](http://www.euro.who.int/en/about-us/partners/observatory/publications/health-system-reviews-hits/full-list-of-country-hits)
-* Integrierte Versorgung
 * [ÖGD-Vergleich](http://www.euro.who.int/en/about-us/partners/observatory/publications/studies/the-role-of-public-health-organizations-in-addressing-public-health-problems-in-europe-the-case-of-obesity,-alcohol-and-antimicrobial-resistance-2018)
 * [Health for all explorer](https://gateway.euro.who.int/en/hfa-explorer/)
 * [OECD-Statistics](https://stats.oecd.org/)
