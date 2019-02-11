@@ -4,13 +4,12 @@ title:  "Das öffentliche Gesundheitswesen im Nationalsozialismus"
 date:   2019-02-11 08:29:49 +0100
 categories: Zweite-Woche
 permalink: der-oegd-im-nationalsozialismus/
-
 ---
-## Zum nachlesen
-* Magazin auf der Homepage zum nachlesen.
-* Gesundheitswesen
+## Zum Nachlesen
+* [Webseite des Gesundheitsamtes Neuburg inklusive Verlinkung zu Übersichtsartikeln](https://www.neuburg-schrobenhausen.de/Das-Gesundheitsamt-im-Nationalsozialismus.o762.html)
+* [Ausstellung in der Karl-Bonhoeffer-Nervenklinik](http://www.totgeschwiegen.org/ausstellung.html): Totgeschwiegen in der Heil- und Pflegeanstalt Karl-Bonhoeffer-Nerveklinik
 
-
+## Eugenik mit Zwangssterilisation
 * Ernst Rüdin und Max von Gruber veröffentlichten 1911 einen Artikel zu Rassenhygiene (erster deutscher)
 * 1914 Veröffentlichung der Leitsätze der Eugenik
 * Eugenik oder Rassenhygiene war vor 1933 eine top-moderne Wissenschaft
@@ -51,7 +50,6 @@ permalink: der-oegd-im-nationalsozialismus/
   * Erb- und Rassenpflege
     * Positive Eugenik
     * Negative Eugenik
-
 * Positive Eugenik: Ehestandsdarlehen, Kinderbeihilfen, Ausbildungshilfen, Ehrenbruch der deutschen kinderreichen Familie, Ehrenkreuz der deutschen Mutter.
 * Negative Eugenik: Zwangssterilisation, Eheverbote, Euthanasie
 * Handbücherei für den öffentlichen Gesundheitsdienst im Thieme Verlag (zuvor im Fischer-Verlag, der aber arisiert wurde)
@@ -62,16 +60,12 @@ permalink: der-oegd-im-nationalsozialismus/
 * Diese Wissenschaft wurde auch die Schulbücher mit aufgenommen
 * Daten wurden in Erbkarteien erfasst (davon wurden ca. 10 Mio. erstellt)
 * Von jeder Familie wurde eine Sippentafel erstellt
-
 * In der NS-Zeit gab es meist Zwei Wege um Dinge umzusetzen:
 * Recht und Gesetzt mit Beamtenstaat
 * Maßnahmenstaat, der durch die Partei vorgegeben wurde
 * Der Beamtenstaat folgt der "normativen Macht des Faktischen"
-
-
-## Zweiter Teil: Hintergründe zum Gesetz
 * Auszug aus dem Gesetz
-  * Wer erbkrank ist, kann unfruchtbar gemacht werden
+  * "Wer erbkrank ist, kann unfruchtbar gemacht werden"
   * Erbkrank im Sinne dieses Gesetzes ist, wer an einer der folgenden Krankheiten leidet:
     1. angeborener Schwachsinn
     2. Schizophrenie
@@ -80,15 +74,11 @@ permalink: der-oegd-im-nationalsozialismus/
   * Die Erbgesundheitsgerichte sprachen in 96% die Sterilisation aus
   * "Schwachsinn" ist bewusst unscharf gewählt, z.B. gab es "Moralischen Schwachsinn" zum Beispiel bei promiskuitiven Frauen
   * Es gab riesige Ermessensspielräume
-
-# Durchführung der Sterilisation
 * Bei der OP der Frauen gab es eine hohe Todesrate da Laparotomien durchgeführt werden mussten
 * Es wurde zum Teil auch vaginal sterilisert
 * Es gab die Rektal-Basisnarkose
 * Es gab eine Bestrahlungs-Sterilisation
 * Den Gesundheitsämter ging ein Bericht über die Operationen zu
-
-# Interessantes zur Durchführung des Gesetzes
 * Thüringen war ein Muster-Gau (1 von 33 war nicht in der NSDAP)
 * Westphalen viel weniger nazifiziert (26 von 108 waren nicht in der NSDAP)
 * In Thüringen wurde viel mehr sterilisiert
@@ -114,4 +104,57 @@ permalink: der-oegd-im-nationalsozialismus/
 * Franz Josef Strauss hat 1965 zur Entschädigung gesagt: Das Entschädigungsgeld geht direkt an Schwachsinnige, Psychopathen usw. Zu finden im Internet.
 * Die Amerikaner waren bei der "Reinstatement" sehr pragmatisch.
 * Papst Pius der Elfte hatte in einer Enzyklika eine Sterilisation untersagt.
-* Ein Amtsarzt von Köln hatte sich offen gegen Zwangssterilisation ausgesprochen. Er wurde degradiert und nach einem Jahr aus dem öffentlichen Dienst 1935 entfernt. 
+* Ein Amtsarzt von Köln hatte sich offen gegen Zwangssterilisation ausgesprochen. Er wurde degradiert und nach einem Jahr aus dem öffentlichen Dienst 1935 entfernt.
+
+## Euthanasie
+* Die Wurzeln der Vergasung stammt aus dem medizinischen Bereich
+* Kranke wurden von Krankenhausleitern euthanasiert
+* Kinder wurden auch der Euthanasie zugeführt.
+* [Villa in der Tiergartenstraße 4 um 1940](https://de.wikipedia.org/wiki/Tiergartenstra%C3%9Fe_4): Hier wurde der Massenmord "T4" organisiert.
+* Hitlers Ermächtigungsschreiben vorgelegt vom Reichsleiter Bouhler und Dr. med. Brandt.: "Gnadentod für nach menschliem Ermessen unheilbar Kranken.
+* Es sollte ein Gesetz zur Euthanasie erstellt werden - dazu kam es aber nie.
+* Mordanstalten gab es insgesamt 7: Graffeneck, Hadamar, Brandenburg an der Havel, Bernburg, Sonnenstein, Hartheim.
+* Beispiel aus dem Gesundheitsamt Neuburg: Mitteilung an zwei Söhne bei der vorgegaukelt wurde, dass der Vater im Krankenhaus verstorben.
+* Die ermordeten wurden üblicherweise eingeäschert
+* Runderlaß vom 18.8.1939 aus dem Reichsministerium für Innere: Meldepflicht für mißgestaltete Neugeborene
+* Der Runderlaß war geheim, nur die erste Seite wurde verbreitet
+* Es gab ein Kopfgeld für Hebammen von 2 Reichsmark
+* Die Meldung geht an die Gesundheitsämter
+* Die Gesundheitsämter geben die Meldung weiter an den Reichsausschuß in Berlin
+* Der Reichsausschuß wurde durch Gutachter beraten.
+* Die Gutachter empfahlen Tötung oder die Behandlung in einer Kinderfachabteilung
+* Getötet wurde durch Verhungerlassen, Barbiturate
+* Den Gutachtern wurden nie der Prozess gemacht.
+* Der Gutachter [Hr. Catel](https://de.wikipedia.org/wiki/Werner_Catel) hat noch populäre Fachbücher geschrieben.
+* In Berlin lief die Euthanasie über [Hans Heinze](https://de.wikipedia.org/wiki/Hans_Heinze) mit einer Kinderanstalt in Görden (1700 Kinder von 4000 Kinder)
+* 40 Kinder aus Görden wurden "auf Bestellung" zu Forschungszwecken ermordet.
+* [Lübecker Impfkatastrophe](https://de.wikipedia.org/wiki/L%C3%BCbecker_Impfungl%C3%BCck)
+* Absichtliches infizieren mit Tuberkulose zur Erforschung von Tuberkulose-Impfstoffen
+* Forschung in Berlin durch Susanne Dötz aus der Charite
+
+## Beispiel für die Wirkung in die Gegenwart hinein
+1. Zwangsbluttest auf HIV oder Hepatitis B auf Personen mit Migrationshintergrund
+2. Aufforderung bei Zwangsabschiebungen nur auf somatische Krankheiten zu achten
+3. Verwaltungsvorschrift der Bayrischen Regierung: Maßnahmenkatalog zur Verhütung und Bekämpfung der Immunschwächekrankheit. Die Verwaltungsvorschrift ist veröffentlicht
+  * Gauweiler vertrat den Maßnahmenkatalog
+  * Rita Süssmuth war gegen eine namentliche Meldepflicht
+  * BVÖGD protestiert gegen den bayrischen Maßnahmenkatalog
+  * Beispiel aus Bayern:
+    * Kripo meldet 4 "Fixer"
+    * Bei der Vorladung wird nicht auf "AIDS" hingewiesen: "zur Abklärung eines wichtigen Befundes."
+    * Ansteckungsverdacht ist bereits definiert als Mitglied einer   Gruppenzugehörigkeit
+    * Ein "Fixer" hat sich geweigert und hat eine Ordnungswidrigkeit bekommen
+    * Vor Gericht ist ein Vergleich geschlossen werden
+4. Unterbringungsgesetz aus Bayern
+  * Es gibt vorgefertigte Bescheide für die Zwangseinweisung
+  * Der Amtsleiter hat eine Mitarbeiterin zwangseingewiesen
+5. Infektionsschutzgesetz
+  * Urteil Verwaltungsgericht 22. März 2012
+  * Hannover: Zwei Schulen. Ein Schüler aus einer anderen Schule hatte geklagt.  
+  * Vortrag MR Fabian Feil, Niedersächsisches Sozialministerium Nationale Impfkonferenz 16.05.2013
+6. Datenschutz  
+  * Psychiatrische Epikrise per E-Mail verschickt zur Verlängerung eines Reha-Antrages
+  * Die Polizei schickt personenbezogene Daten für die Meldung von Suchtkranke
+7. Gutachtenauftrag
+  * Nach einem Antrag auf ein "Allergikerzimmer" wurde eine Gesundheitsbeschwerden
+  * Das Gesundheitsamt wurde zu einer Dienstfähigkeitsuntersuchung aufgefordert.
