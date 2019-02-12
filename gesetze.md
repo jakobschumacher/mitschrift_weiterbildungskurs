@@ -7,6 +7,8 @@ permalink: /about/
 ## Verwaltungsrecht
 * [Verwaltungsgerichtsordnung](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html)
 * [Bürgerliches Gesetzbuch](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html)
+* [Gesetz über das Verfahren der Berliner Verwaltung](http://gesetze.berlin.de/jportal/?quelle=jlink&query=VwVfG+BE&psml=bsbeprod.psml&max=true&aiz=true#jlr-VwVfGBE2016pP1)
+* [Rechtsbehelfsbelehrungsmuster im Internet](http://www.verwaltungsvorschriften-im-internet.de/bsvwvbund_12082013_VII11321206.htm)
 
 ## Gesundheitsdienstgesetze
 * [Baden-Würtemberg](http://www.landesrecht-bw.de/jportal/?quelle=jlink&query=GesDG+BW&psml=bsbawueprod.psml&max=true)
@@ -27,5 +29,9 @@ permalink: /about/
 * [Thüringen](http://landesrecht.thueringen.de/jportal/?quelle=jlink&docid=jlr-GesDVTH1998rahmen&psml=bsthueprod.psml&max=true)
 
 
-## Gebühren
+## Gebührengesetze
 * [Landesgebührenordnung Berlin](http://gesetze.berlin.de/jportal/?quelle=jlink&query=VwGebO+BE&psml=bsbeprod.psml&max=true&aiz=true)
+
+
+## Weitere Gesetze
+* [Heilpraktikergesetz](https://www.gesetze-im-internet.de/heilprg/BJNR002510939.html)

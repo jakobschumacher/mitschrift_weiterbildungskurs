@@ -9,6 +9,8 @@ permalink: verwaltungsrecht/
 ## Links
 * [Verwaltungsgerichtsordnung](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html)
 * [Bürgerliches Gesetzbuch](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html)
+* [Rechtsbehelfsbelehrungsmuster im Internet](http://www.verwaltungsvorschriften-im-internet.de/bsvwvbund_12082013_VII11321206.htm)
+
 
 ## Wichtige Vokabeln
 * [Rechtssubjekt](https://de.wikipedia.org/wiki/Rechtssubjekt)
@@ -16,14 +18,15 @@ permalink: verwaltungsrecht/
 * [Rechtsverhältnis](https://de.wikipedia.org/wiki/Rechtsverh%C3%A4ltnis)
 * [Rechtsgrund](https://de.wikipedia.org/wiki/Causa_(Rechtsgrund))+
 * [Rechtsnorm](https://de.wikipedia.org/wiki/Rechtsnorm)
-* Eigentümer
-* Besitzer
-* Restitution
+* [Rechtsquelle](https://de.wikipedia.org/wiki/Rechtsquelle)
+  * Gesetz
+  * Verordnung
+  * Satzung
+* Gefahr (siehe unten)
 * [Kompetenzkonflikt](https://de.wikipedia.org/wiki/Kompetenzkonflikt)
-* Gesetz
-* Verordnung
-* Unbestimmter Rechtsbegriff
-  * Z.B. § 242 StGB Diebstahl ist sehr unscharf definiert
+* [Unbestimmter Rechtsbegriff](https://de.wikipedia.org/wiki/Unbestimmter_Rechtsbegriff)
+* [Unverzüglich](https://de.wikipedia.org/wiki/Unverz%C3%BCglichkeit): Ohne schuldhaftes Zögern
+
 
 ## Rechtsstaatsprinzip
   * Grundrechte
@@ -100,4 +103,76 @@ Die vier Schritte der Rechtsanwendung
       * Sachfremde Erwägungen
     * Ermessensfehler können geheilt werden ([Verwaltungsverfahrensgesetz §45](https://www.gesetze-im-internet.de/vwvfg/__45.html))
 
-## Gefahr als Beurteilungsspielraum (ein unbestimmter Rechtsbegriff)
+## Gefahr
+* Gefahr ist ein unbestimmter Rechtsbegriff und bietet damit einen Beurteilungsspielraum
+* Beurteilungsspielraum vs. Ermessen
+  * Beurteilungsspielraum (Einschätzung der Tatseite)
+  * Ermessen (Einschätzung der Maßnahmenseite)
+  * Beispielweise gilt [§ 9 TrinkWV](https://www.gesetze-im-internet.de/trinkwv_2001/__9.html) sind Ermessen und Beurteilung beide enthalten
+    * Beurteilungsspielraum Absatz I ist eine Risikobewertung der Gesundheitsbehörde
+    * Ermessensspielraum Absatz II 2 die Rechtsfolge kann nach pflichtgemäßem Ermessen bestimmt werden
+* Bei der Gefahr muss immer noch die Prognosen mitbedacht werden
+  * Prognosebasis: Alle zum Zeitpunkt der Beurteilung vorhandenen relevanten Umstände
+  * Gefahr im juristischen Sinne besteht aus Schaden UND Eintrittswahrscheinlichkeit
+  * Subjektiver Gefahrenbegriff:
+    * Anscheinsgefahr: Eine Gefahr im rechtlichen Sinne ist gegeben, wenn der gewissenhaft Handelnde eine Gefahr annimmt.  
+    * Putativgefahr: Wenn nicht ordnungsgemäß gehandelt wurde, z.B. Tatsachen nicht ordentlich recherchiert wurde.
+  * Verschiedene Gefahrenbegriffe
+    * Konkrete Gefahr: _Sie liegt vor, wenn in dem zu beurteilenden konkreten Einzelfall in absehbarer Zeit mit dem Schadenseintritt hinreichend wahrscheinlich gerechnet werden kann_
+    * Abstrakte Gefahr: _Sie liegt vor bei einem gedachten abstrakten Sachverhalt, bei dem generell mit hinreichender Wahrscheinlichkeit mit einem Schaden für die öffentliche Sicherheit und/oder Ordnung gerechnet werden muss._
+    * Gegenwärte Gefahr: _Die konkrete Gefahr ist bereits gegenwärtig oder steht unmittelbar bevor_
+    * Gefahr im Verzug: _Sie ist anzunehmen, wenn zur Verhinderung eines drohenden Schadens sofort eingeschritten werden muss, weil ein Abwarten bis zum Eingreifen der an sich zuständigen Behörde den Erfolg der notwendigen maßnahmen erschweren oder vereiteln würde, d.h. wenn die Maßnahme unaufschiebbar ist._
+    * Erhebliche Gefahr: _Gefahr für ein bedeutsames Rechtsgut. Z.B. Bestand des Staates, Leben, Gesundheit, Freiheit"_
+    * Erhebliche gesundheitliche Gefahr: _liegt vor, wenn der Tatbestand zur Verbreitung von lebensbedrohlichen und leicht übertragbaren Infektionen [...] führen könnte._
+    * Dringende Gefahr: _Sie liegt vor, wenn ein besonders wichtiges Rechtsgut gefährdet ist._
+    * Unmittelbare Gefahr: _zeitliche Nähe, fast mit Gewissheit_
+    * Mittelbare Gefahr: _frühzeitiges Erkennen ernster Leiden verzögert werden könnte_
+    * Gefahrenverdacht: _Wenn noch die erforderliche Wahrscheinlichkeit des Schadenseintrittes fehlt._
+
+## Verwaltungshandeln
+<div class="mermaid">
+graph LR;
+    X["Formen des Verwaltungshandelns"]-->A["Öffentlich rechtlich"];
+    X-->privatrechtlich;
+    A["Öffentlich rechtlich"]-->Rechtsakte;
+    A-->B["Realakte"];
+    Rechtsakte-->Außenwirkung;
+    Rechtsakte-->Innenwirkung;
+    Außenwirkung --> abstrakt-generell;
+    abstrakt-generell-->Rechtsverordnung;
+    abstrakt-generell-->Satzung;
+    Außenwirkung --> konkret-individuell;
+    konkret-individuell-->Einseitig;
+    Einseitig-->Verwaltungsakt
+    konkret-individuell-->Zweiseitig;
+    Zweiseitig-->Verwaltungsvertrag;
+</div>
+
+### Realakte und informelles Verwaltungshandeln
+* Realakte: Schlichtes Verwaltungshandeln
+  * Z.B: Wissenserklärungen: Auskünfte, Berichte, öffentliche Warnung, Gutachten, Beratung
+  * Z.B. tatsächliche Verrichtung: Überwachung, Probenahmen, Durchführungen von Ermittlungen, Ortsbegehungen, Einsicht in unterlagen, Auskünfte einholen
+  * Informelles Verwaltungshandeln
+    * Anhörung
+      * §28 Verwaltungsverfahrensgesetz
+    * Untersuchungsgrundsatz: Die Behörde ermittelt alle Gründe  
+      * §24 Verwaltungsverfahrensgesetz
+    * Informelles Verwaltungshandeln
+    * Auch bei Realakten hat die Verwaltung die Rechtsmäßigkeit des Handelns und das prinzip der Vehältnismßigkeit zu beachten.
+
+### Verwaltungsakte
+* Verwaltungsakt ist in § 35 Verwaltungsverfahrensgesetz definiert
+* Maßnahme: Ein vom Willen getragenes Verhalten zu einem bestimmten Zweck
+* Behörde: funktionale Behördenbegriff: Jede Institution die öffentliche Aufgaben wahrnimmt
+* Regelung ist DAS Merkmal beim Verwaltungsakt, d.h. eine Willenserklärung, die auf das Setzen einer Rechtsfolge gerichtet ist
+  * Verbot eines Verhaltens
+    * Anordnung der Schließung der ambulanten OP (§ 16 IfsG)
+    * Anordnung Unterbrechung einer Wasserversorgung (§ 9 TrinkWV)
+    * Schulbetretungsverbot für Ansteckungsverdächtige nach (§ 28 IfSG)
+  * Gebot eines Verhaltens
+    * Anordnung der Quarantäne
+    * Anordnung nach Legionellenuntersuchung
+  * Rechtsgewährung
+    * Approbationserteilung
+    * Genehmigung einer RAP (§ 14 TrinkWV)
+    * Erlaubnis zur Tätigkeit mit Krankheitserregern (§ 44 IfSG)
