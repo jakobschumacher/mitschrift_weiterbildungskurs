@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Mitschrift 14. Weiterbildungskurs
+title: Mitschrift 14. Weiterbildungskurs ÖGW
 email: jakob.schumacher@web.de
 description: >- # this means to ignore newlines until "baseurl:"
-  Meine persönlichen Mitschriften des 14 Weiterbildungskurs zum Facharzt für öffentliches Gesundheitswesen
+  Meine Mitschriften des 14 Weiterbildungskurs zum Facharzt für öffentliches Gesundheitswesen der Akademie für öffentliches Gesundheitswesen, Düsseldorf
 baseurl: "/mitschrift_weiterbildungskurs" # the subpath of your site, e.g. /blog
 url: "https://jakobschumacher.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jakobschumacher

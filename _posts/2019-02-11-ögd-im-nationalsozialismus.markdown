@@ -9,7 +9,7 @@ permalink: der-oegd-im-nationalsozialismus/
 * [Webseite des Gesundheitsamtes Neuburg inklusive Verlinkung zu Übersichtsartikeln](https://www.neuburg-schrobenhausen.de/Das-Gesundheitsamt-im-Nationalsozialismus.o762.html)
 * [Ausstellung in der Karl-Bonhoeffer-Nervenklinik](http://www.totgeschwiegen.org/ausstellung.html): Totgeschwiegen in der Heil- und Pflegeanstalt Karl-Bonhoeffer-Nerveklinik
 
-## Eugenik mit Zwangssterilisation
+## Eugenik/Zwangssterilisation
 * Ernst Rüdin und Max von Gruber veröffentlichten 1911 einen Artikel zu Rassenhygiene (erster deutscher)
 * 1914 Veröffentlichung der Leitsätze der Eugenik
 * Eugenik oder Rassenhygiene war vor 1933 eine top-moderne Wissenschaft

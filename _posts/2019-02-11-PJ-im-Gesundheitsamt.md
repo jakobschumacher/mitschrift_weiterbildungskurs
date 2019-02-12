@@ -6,7 +6,6 @@ categories: Zweite-Woche
 permalink: pj-im-gesundheitsamt/
 ---
 
-
 * Es gibt ca. 800 Fachärzte im ÖGD (davon 331 über 60 Jahre)
 * Jedes Jahr machen ca. 100 Leute den Kurs
 * Jedes Jahr machen ca. 30 Leute den Facharzt für ÖGW
