@@ -6,6 +6,11 @@ categories: Erste-Woche
 permalink: gesundheitsdienstgesetze/
 ---
 
+## Gesetzliche Grundlage
+* Länder vs. Bund ([GG § 70](https://www.gesetze-im-internet.de/gg/art_70.html))
+* Konkurrierende Gesetzegebung: Bund und Länder dürfen Gesetze erlassen
+  * BeispieL [GG § 74](https://www.gesetze-im-internet.de/gg/art_74.html): Der Bund darf _Zulassung_ zu ärztlichen Berufen regeln aber nicht die _Weiterbildung_.
+
 ## Der Vergleich
 Gesundheitsdienstgesetze sind sehr divers
 * Berlin arbeitet grundsätzlich subsidär und sozialkompensatorisch

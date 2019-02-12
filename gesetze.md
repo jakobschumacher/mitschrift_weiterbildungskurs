@@ -25,3 +25,7 @@ permalink: /about/
 * [Sachsen-Anhalt](http://www.landesrecht.sachsen-anhalt.de/jportal/?quelle=jlink&query=GesDG+ST&psml=bssahprod.psml&max=true)
 * [Schleswig-Holstein](https://www.schleswig-holstein.de/DE/Fachinhalte/G/gesundheits_dienste/gesundheits_dienste_weitereInfos.html)
 * [Thüringen](http://landesrecht.thueringen.de/jportal/?quelle=jlink&docid=jlr-GesDVTH1998rahmen&psml=bsthueprod.psml&max=true)
+
+
+## Gebühren
+* [Landesgebührenordnung Berlin](http://gesetze.berlin.de/jportal/?quelle=jlink&query=VwGebO+BE&psml=bsbeprod.psml&max=true&aiz=true)
