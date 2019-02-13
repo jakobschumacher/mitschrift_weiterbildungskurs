@@ -18,10 +18,11 @@ permalink: verwaltungsrecht/
 * [Rechtsverhältnis](https://de.wikipedia.org/wiki/Rechtsverh%C3%A4ltnis)
 * [Rechtsgrund](https://de.wikipedia.org/wiki/Causa_(Rechtsgrund))+
 * [Rechtsnorm](https://de.wikipedia.org/wiki/Rechtsnorm)
-* [Rechtsquelle](https://de.wikipedia.org/wiki/Rechtsquelle)
+* [Rechtsquelle](https://de.wikipedia.orAllgemeines Zuständigkeitsgesetzg/wiki/Rechtsquelle)
   * Gesetz
   * Verordnung
   * Satzung
+  * Europäisch Verordnung oder Richtlinie
 * Gefahr (siehe unten)
 * [Kompetenzkonflikt](https://de.wikipedia.org/wiki/Kompetenzkonflikt)
 * [Unbestimmter Rechtsbegriff](https://de.wikipedia.org/wiki/Unbestimmter_Rechtsbegriff)
@@ -35,7 +36,7 @@ permalink: verwaltungsrecht/
   * Rechtssicherheit
   * Rechtsfrieden (z.B. Verjährung)
 
-## Rechtsnormen
+## Rechtsnormen ??? Dieser Begriff stimmt noch nicht
   * Außenrechtssätze (Gelten für die Bevölkerung)
     * Gesetz
     * Rechtsverordnung
@@ -45,7 +46,7 @@ permalink: verwaltungsrecht/
     * Generell abstrakt (Verwaltungsvorschrift, Runderlass, Rundverfügung usw.)
       * Organisations- oder Dienstvorschriften
       * Auslegungsrichtlinien
-      * Ermessenslenkende Verwaltungsvorschriften
+      * Ermessenslenkende VerwaltungsvorschrAllgemeines Zuständigkeitsgesetziften
       * Normenkonkretisierende Verwaltungsvorschriften "antizipierte Sachverständigengutachten"
 
 ## Rechtsgrundsätze des Verwaltungshandelns
@@ -131,7 +132,7 @@ Die vier Schritte der Rechtsanwendung
 
 ## Verwaltungshandeln
 <div class="mermaid">
-graph LR;
+graph TD;
     X["Formen des Verwaltungshandelns"]-->A["Öffentlich rechtlich"];
     X-->privatrechtlich;
     A["Öffentlich rechtlich"]-->Rechtsakte;
@@ -176,3 +177,101 @@ graph LR;
     * Approbationserteilung
     * Genehmigung einer RAP (§ 14 TrinkWV)
     * Erlaubnis zur Tätigkeit mit Krankheitserregern (§ 44 IfSG)
+
+
+
+Es fehlt Seite 85 bis 108 im Skript
+
+
+## Inanspruchnahme Pflichtiger
+* Ermessensentscheidung hinsicht der Auswahl des Pflichtigen unter Beachtung z.B. des Verhältnismäßigkeitsgrundsatzes
+* Störermehrheit - Ermessen
+  * Primärebene: Wirksame und schnelle Gefahrenbekämpfung
+  * Sekundärebene: Kostentragungr
+  * Tendenz: Handlungsstörer vor Zustandsstörer (Zustandsstörer ist Opfer des Handlungsstörer, z.B. Messi)
+  * Ein Regress innerhalb der Störermehrheit ist ein Zivilstreit
+* Widerspruch
+* 3-Tages-Regel: Eine normale Post oder E-Mail gilt nach 3 Tagen als zugestellt
+* Nach einem Urlaub gibt es die Möglichkeit einen Antrag auf Wiedereinsetzung zu stellen, den Antrag glaubhaft zu machen und Widerspruch zu erheben.
+* Man kann auch Widerspruch erheben und angeben "Begründung folgt"
+* Rechtswirksamkeit des Verwaltungsaktes beginnt mit der Bekanntgabe
+* Wenn die Widerspruchsfrist abgelaufen ist, gilt der bis der dahin "rechtswirksame" Verwaltungsakt zu einem "bestandskräftigen" Verwaltungsakt
+* Ein bestandskräftiger Verwaltungsakt kann nur in Ausnahmefällen angefochten werden.
+* Es gibt noch eine öffentliche Bekanntmachung
+* Das Verwaltungsverfahren wird durch den Verwaltungsakt üblicherweise zum Abschluss gebracht.
+
+
+## Verwaltungsrechtsschutz
+* Ein Rechtsbehelf ist ein Gesuch mit dem eine behördliche oder gerichtliche Entscheidung angefochten werden kann
+* Es gibt außergreichtliche und gerichtliche Rechtsbehelfe
+* Die außergerichtlichen Rechtsbehelfe unterteilen sich in formlose und förmliche Rechtsbehelfe
+* Formloser Rechtsbehelf
+  * Kein Suspensiveffekt: Auffschiebende Wirkung
+  * Kein Devolutiveffekt: Eine Ebene nach oben
+  * "Formlos, Fristlos, Fruchtlos"
+Förmlicher Rechtsbehelf
+  * Form- und Fristvoraussetzung
+  * Kann nur von dem Erhoben werden, der ein Rechtsschutzbedürfnis hat
+  * Recht auf Prüfung und Beantwortung
+  * Z.T. Suspensiv oder Devolutivefekt
+  * Antrag auf Wiedereinsetzung möglich
+* Gerichtliche Rechtsbehelfe unterteilen sich in Rechtsmittel und Sonstige Rechtsbehelfe
+  * Rechtsmittel sind Berufung (Inhaltliche Überprüfung), Revision (Rechtsüberprüfung) und Beschwerde
+  * Sonstige Rechtsbehelfe ist die erneute Klage
+
+## Widerspruchs/Klageverfahren/vorläufiger Rechtsschutz
+* Vorbereitend eines Verwaltungsaktes erfolgt durch eine Anhörung
+* Aufgaben des Widerspruchs
+  * Selbstkontrolle der Verwaltung
+  * Entlastung der Gerichte
+  * Rechtsschutzerweiterung der Bürger
+* Das Widerspruchsverfahren verläuft in zwei Stufen
+  1. Abhilfeentscheidung
+  2. Widerspruchsentscheidung
+* Das Widerspruchsverfahren ist Grundlage für...
+  * ... Anfechtungsklage: Belastung für den Bürger
+  * ... Verpflichtungsklage: Leistung der Behörde wird verlangt
+  * ... Klagen aus einem Beamtenverhältnis
+* Grundsätzlich hat ein Widerspruch eine aufschiebende Wirkung
+* Im IfSG gibt es häufig Ausnahmen von der aufschiebenden Wirkung
+* Durch [§80 VwGO](https://www.gesetze-im-internet.de/vwgo/__80.html) kann das Verwaltungsgericht eine aufschiebende Wirkung anordnen
+* Eine aufschiebende Wirkung beruht auf Vollzugsinteresse und Aussetzungsinteresse
+* Wiederherstellung der aufschiebenden Wirkung kann durch ein Verwaltungsgericht hergestellt werden.
+
+## Verwaltungsvollstreckung
+* Verwaltungsvollstreckung ist die zwangsweise Durchsetzung von verwaltungsrechtlichen Ansprüchen wegen...
+  * ... Erzwingung von Handlungen, Duldungen oder Unterlassungen
+  * ... Geldforderungen
+* Eine Behörde kann die Voraussetzung für die Vollstreckung selber schaffen
+* Verwaltungsvollstreckun gibt es
+  * Befehlende Verwaltungsakte (muss unanfechtbar oder sofort vollziehbar sein)
+  * Feststellende Verwaltungsakt (z.B. Einbürgerung)
+* Ausnahmsweise ist die Vollstreckung sogar ohne Verwaltungsakt zulässig (Polizei sucht Übeltäter)
+<div class="mermaid">
+graph TD;
+A["Vollstreckung von Verwaltungsakten"]-->B["Befehlender VA"];
+B-->Unanfechtbar;
+B-->E["Sofort vollziehbar"];
+E-->F["durch § 16 VIII IfSG"];
+E-->G["Durch Entscheidung der Exekutive"];
+G-->Vollstreckung;
+F-->Vollstreckung;
+Unanfechtbar-->Vollstreckung
+A-->C["Sonstiger VA"];
+C-->D["Keine Vollstreckung"];
+</div>
+* Zwangsmittel müssen erst angedroht und dann ausgeführt werden
+  * Zwangsmittel: Ersatzvornahme, Zwangsgeld, Unmittelbarer Zwang
+  * Es gibt einen Typenzwang, d.h. man darf nichts anderes erfinden
+  * Vertretbare Handlung heißt, die Handlung könnte auch von einer dritten Person durchgeführt werden.
+    * Beispiel: Abstellung eines Öl-tropfenden Gerätes in einem öffentlichen Wald
+    * Ersatzvornahme ist bei einer vertretbaren Handlung der mildere Zwang.
+  * Unvertretbaren Handlungen heißt, die Handlung kann nur durch den Pflichtigen erfolgen
+    * Zum Beispiel: Herausgabe von Dokumenten, Wiederherstellung der eheähnlichen Gemeinschaft
+    * Zwangsgeld
+    * Ersatzzwangshaft
+    * Unmittelbarer Zwang
+  * Ablauf
+    1. Zwangsmittel müssen angedroht werden (Ausnahme: Besondere Gefahr)
+    2. Festsetzung des Zwangsmittels
+    3. Anwendung des Zwangsmittels (Dies ist ein Realakt)
