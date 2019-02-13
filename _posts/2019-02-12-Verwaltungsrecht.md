@@ -27,27 +27,23 @@ permalink: verwaltungsrecht/
 * [Kompetenzkonflikt](https://de.wikipedia.org/wiki/Kompetenzkonflikt)
 * [Unbestimmter Rechtsbegriff](https://de.wikipedia.org/wiki/Unbestimmter_Rechtsbegriff)
 * [Unverzüglich](https://de.wikipedia.org/wiki/Unverz%C3%BCglichkeit): Ohne schuldhaftes Zögern
-
-
-## Rechtsstaatsprinzip
+* Außenrechtssätze (Gelten für die Bevölkerung)
+  * Gesetz
+  * Rechtsverordnung
+  * Satzung
+* Innenrechtssätze (Gelten für die Verwaltung)
+  * Einzelweisung (Vorgesetzte sagt)
+  * Generell abstrakt (Verwaltungsvorschrift, Runderlass, Rundverfügung usw.)
+    * Organisations- oder Dienstvorschriften
+    * Auslegungsrichtlinien
+    * Ermessenslenkende VerwaltungsvorschrAllgemeines Zuständigkeitsgesetziften
+    * Normenkonkretisierende Verwaltungsvorschriften "antizipierte Sachverständigengutachten"
+* Rechtsstaatsprinzip
   * Grundrechte
   * Gewaltenteilung
   * Unabhängige Gerichte
   * Rechtssicherheit
   * Rechtsfrieden (z.B. Verjährung)
-
-## Rechtsnormen ??? Dieser Begriff stimmt noch nicht
-  * Außenrechtssätze (Gelten für die Bevölkerung)
-    * Gesetz
-    * Rechtsverordnung
-    * Satzung
-  * Innenrechtssätze (Gelten für die Verwaltung)
-    * Einzelweisung (Vorgesetzte sagt)
-    * Generell abstrakt (Verwaltungsvorschrift, Runderlass, Rundverfügung usw.)
-      * Organisations- oder Dienstvorschriften
-      * Auslegungsrichtlinien
-      * Ermessenslenkende VerwaltungsvorschrAllgemeines Zuständigkeitsgesetziften
-      * Normenkonkretisierende Verwaltungsvorschriften "antizipierte Sachverständigengutachten"
 
 ## Rechtsgrundsätze des Verwaltungshandelns
 1. Vorrang des Gesetzes
@@ -62,7 +58,6 @@ permalink: verwaltungsrecht/
     * Zum Beispiel: z.B. Anordnung der Erhöhung eines Fabrikschornsteins um 0m ist geeignet um die unmittelbare Umgebung weniger zu belasten.
   * Erforderlichkeit
     * Zum Beispiel: Absonderung aller Passagiere eines Flugzeugs bei Ausbruch von Lungenpest.
-
   * Angemessenheit oder Verhältnismäßigkeit (im engeren Sinne)
     * Zum Beispiel: Anordnung des Einbaus einer Feuerlöschanlage, da Personen in einer Scheune arbeiten.
 
@@ -147,9 +142,11 @@ graph TD;
     Einseitig-->Verwaltungsakt
     konkret-individuell-->Zweiseitig;
     Zweiseitig-->Verwaltungsvertrag;
+    Innenwirkung-->Verwaltungsvorschrift;
+    Innenwirkung-->Einzelanweisung
 </div>
 
-### Realakte und informelles Verwaltungshandeln
+## Realakte und informelles Verwaltungshandeln
 * Realakte: Schlichtes Verwaltungshandeln
   * Z.B: Wissenserklärungen: Auskünfte, Berichte, öffentliche Warnung, Gutachten, Beratung
   * Z.B. tatsächliche Verrichtung: Überwachung, Probenahmen, Durchführungen von Ermittlungen, Ortsbegehungen, Einsicht in unterlagen, Auskünfte einholen
@@ -161,7 +158,7 @@ graph TD;
     * Informelles Verwaltungshandeln
     * Auch bei Realakten hat die Verwaltung die Rechtsmäßigkeit des Handelns und das prinzip der Vehältnismßigkeit zu beachten.
 
-### Verwaltungsakte
+## Verwaltungsakte
 * Verwaltungsakt ist in § 35 Verwaltungsverfahrensgesetz definiert
 * Maßnahme: Ein vom Willen getragenes Verhalten zu einem bestimmten Zweck
 * Behörde: funktionale Behördenbegriff: Jede Institution die öffentliche Aufgaben wahrnimmt
@@ -177,13 +174,16 @@ graph TD;
     * Approbationserteilung
     * Genehmigung einer RAP (§ 14 TrinkWV)
     * Erlaubnis zur Tätigkeit mit Krankheitserregern (§ 44 IfSG)
+* Tenor ist die Regelung des Verwaltungsaktes
+* Ein Verwaltungsakt für ein Verbot bezeichnet das Ziel, der Weg kann offenbleiben
 
-
-
-Es fehlt Seite 85 bis 108 im Skript
-
-
-## Inanspruchnahme Pflichtiger
+### Adressaten des Verwaltungsaktes
+* Geht die Gefahr von Sachen aus, ist der Adressat des Verwaltungsaktes zur Beseitigung der Gefahr
+  a) der Eigentümer der Sache
+  b) der Inhaber der tatsächlichen Gewalt
+* Handlungsstörer (Verantwortlich für das Verhalten von Personen)
+* Zustandsstörer (Verantwortlich für den Zustand von Sachen)
+* Nichtstörer (Eine dritte greifbare Person)
 * Ermessensentscheidung hinsicht der Auswahl des Pflichtigen unter Beachtung z.B. des Verhältnismäßigkeitsgrundsatzes
 * Störermehrheit - Ermessen
   * Primärebene: Wirksame und schnelle Gefahrenbekämpfung
@@ -275,3 +275,14 @@ C-->D["Keine Vollstreckung"];
     1. Zwangsmittel müssen angedroht werden (Ausnahme: Besondere Gefahr)
     2. Festsetzung des Zwangsmittels
     3. Anwendung des Zwangsmittels (Dies ist ein Realakt)
+  * Vollstreckung öffentlich-rechtlicher Geldforderung
+    * Voraussetzungen
+    * Erlass
+    * Fälligkeit der leistung
+    * Schonfrist
+    * Vollstreckung
+      * Vollstreckung in bewegliche Sachen: Pfändung (aber pfändungsfreie Forderungen) und Verwertung (z.B. Zwangsversteigerung)
+      * Vollstreckung in Forderungen (z.B. Sicherungshypothek, Zwangsverwaltung, Zwangsversteigerung)
+      * Vollstreckung in unbewegliche Sachen
+  * Zwangsmittel können wiederholt angedroht und durchgesetzt werden.
+  * Straf- und Ordnungswidrigkeitsverfahren können auch gleichzeitig mit einem Zwangsmittelverfahren durchgeführt werden
