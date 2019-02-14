@@ -6,45 +6,6 @@ categories: Zweite-Woche
 permalink: verwaltungsrecht/
 ---
 
-## Links
-* [Verwaltungsgerichtsordnung](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html)
-* [Bürgerliches Gesetzbuch](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html)
-* [Rechtsbehelfsbelehrungsmuster im Internet](http://www.verwaltungsvorschriften-im-internet.de/bsvwvbund_12082013_VII11321206.htm)
-
-
-## Wichtige Vokabeln
-* [Rechtssubjekt](https://de.wikipedia.org/wiki/Rechtssubjekt)
-* [Rechtsobjekt](https://de.wikipedia.org/wiki/Rechtsobjekt)
-* [Rechtsverhältnis](https://de.wikipedia.org/wiki/Rechtsverh%C3%A4ltnis)
-* [Rechtsgrund](https://de.wikipedia.org/wiki/Causa_(Rechtsgrund))+
-* [Rechtsnorm](https://de.wikipedia.org/wiki/Rechtsnorm)
-* [Rechtsquelle](https://de.wikipedia.orAllgemeines Zuständigkeitsgesetzg/wiki/Rechtsquelle)
-  * Gesetz
-  * Verordnung
-  * Satzung
-  * Europäisch Verordnung oder Richtlinie
-* Gefahr (siehe unten)
-* [Kompetenzkonflikt](https://de.wikipedia.org/wiki/Kompetenzkonflikt)
-* [Unbestimmter Rechtsbegriff](https://de.wikipedia.org/wiki/Unbestimmter_Rechtsbegriff)
-* [Unverzüglich](https://de.wikipedia.org/wiki/Unverz%C3%BCglichkeit): Ohne schuldhaftes Zögern
-* Außenrechtssätze (Gelten für die Bevölkerung)
-  * Gesetz
-  * Rechtsverordnung
-  * Satzung
-* Innenrechtssätze (Gelten für die Verwaltung)
-  * Einzelweisung (Vorgesetzte sagt)
-  * Generell abstrakt (Verwaltungsvorschrift, Runderlass, Rundverfügung usw.)
-    * Organisations- oder Dienstvorschriften
-    * Auslegungsrichtlinien
-    * Ermessenslenkende VerwaltungsvorschrAllgemeines Zuständigkeitsgesetziften
-    * Normenkonkretisierende Verwaltungsvorschriften "antizipierte Sachverständigengutachten"
-* Rechtsstaatsprinzip
-  * Grundrechte
-  * Gewaltenteilung
-  * Unabhängige Gerichte
-  * Rechtssicherheit
-  * Rechtsfrieden (z.B. Verjährung)
-
 ## Rechtsgrundsätze des Verwaltungshandelns
 1. Vorrang des Gesetzes
     * Rechtswidrige Rechtsverordnung -> Nichtigkeit
