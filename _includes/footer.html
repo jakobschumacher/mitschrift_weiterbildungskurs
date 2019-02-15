@@ -6,19 +6,17 @@
   <!--  <h2 class="footer-heading">{{ site.title | escape }}</h2>-->
 
     <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-              {{ site.author | escape }}
+
+      <div class="footer-col footer-col-3">
+        <a class="u-email" href="mailto:{{ site.email }}">{{ site.author | escape }}</a>
       </div>
 
       <div class="footer-col footer-col-3">
-        <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
+        <a href="https://github.com/jakobschumacher/mitschrift_weiterbildungskurs">Erstellung auf Github</a>
       </div>
-
-      <div class="footer-col footer-col-2">
-        <a href="https://github.com/jakobschumacher/mitschrift_weiterbildungskurs">Github</a>
+      <div class="footer-col footer-col-6">
+      {{ site.description }}
       </div>
-
-
     </div>
 
   </div>

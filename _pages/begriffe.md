@@ -11,11 +11,21 @@ permalink: /begriffe/
 * [Rechtsgrund](https://de.wikipedia.org/wiki/Causa_(Rechtsgrund))+
 * [Rechtsnorm](https://de.wikipedia.org/wiki/Rechtsnorm)
 * [Rechtsquelle](https://de.wikipedia.orAllgemeines Zuständigkeitsgesetzg/wiki/Rechtsquelle)
-  * Gesetz
+
+| Ebene       | Rechtsnorm  |
+| ----------- |-------------|
+| Europa      | Verordnung<br>Richtlinie |
+| Bund        | Grundgesetz<br>Förmliches Gesetz<br>Materielles Gesetz<br>Satzung  |   
+| Land        | Landesverfassung<br>Förmliches Gesetz<br>Materielles Gesetz<br>Satzung  |
+| Kommune     | Geschäftsverteilungsplan |
+| Einrichtung | Dienstanweisungen |
+
+
+* Gesetz
   * Verordnung
   * Satzung
   * Europäisch Verordnung oder Richtlinie
-* Gefahr (siehe unten)
+* Gefahr (siehe Verwaltungsrecht)
 * [Kompetenzkonflikt](https://de.wikipedia.org/wiki/Kompetenzkonflikt)
 * [Unbestimmter Rechtsbegriff](https://de.wikipedia.org/wiki/Unbestimmter_Rechtsbegriff)
 * [Unverzüglich](https://de.wikipedia.org/wiki/Unverz%C3%BCglichkeit): Ohne schuldhaftes Zögern
@@ -43,3 +53,5 @@ permalink: /begriffe/
 * [Verwaltungsverfahren](https://de.wikipedia.org/wiki/Verwaltungsverfahren): Alles was eine Behörde tut
 * [Opportunitätsprinzip](https://de.wikipedia.org/wiki/Opportunit%C3%A4tsprinzip): Ob und wann eine Behörde ein Verwaltungsverfahren durchführt steht grundsätzlich in ihrem (pflichtgemäßen) Ermessen
 * [Legalitätsprinzip](https://de.wikipedia.org/wiki/Legalit%C3%A4tsprinzip): In bestimmten Fällen wird der Verwaltung kein Ermessen eingeräumt.
+* [Dezernat](https://de.wikipedia.org/wiki/Dezernat)
+* [Geschäftsverteilungsplan](https://de.wikipedia.org/wiki/Gesch%C3%A4ftsverteilungsplan)
