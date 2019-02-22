@@ -1,0 +1,148 @@
+  - title: Badegewässerverordnung Berlin
+    level: Berlin
+    url: http://gesetze.berlin.de/jportal/?quelle=jlink&query=BadGewV+BE+%C2%A7+1&psml=bsbeprod.psml&max=true
+    topic: badegewaesser
+
+  - title: Badewesenüberwachung Berlin
+    level: Berlin
+    url: https://www.umwelt-online.de/recht/gefstoff/gen_tech/bln/hygbade.htm
+    topic: badegewaesser
+
+  - title: EU-Badegewässerrichtlinie
+    level: EU
+    url: https://eur-lex.europa.eu/eli/dir/2006/7/oj
+    topic: badegewaesser
+
+  - title: Medizinprodukte-Betreiberverordnung
+    level: Deutschland
+    url: https://www.gesetze-im-internet.de/mpbetreibv/BJNR176200998.html
+    topic: Hygiene
+
+  - title: Krankenhaus-Verordnung Berlin
+    level: Berlin
+    url: http://gesetze.berlin.de/jportal/portal/t/wet/page/bsbeprod.psml?pid=Dokumentanzeige&showdoccase=1&js_peid=Trefferliste&documentnumber=1&numberofresults=66&fromdoctodoc=yes&doc.id=jlr-KHVBErahmen&doc.part=X&doc.price=0.0&doc.hl=1#focuspoint)
+    topic: Hygiene
+
+  - title: Krankenhausaufsicht-Verordnung
+    level:
+    url: http://gesetze.berlin.de/jportal/portal/t/r6u/page/bsbeprod.psml/action/portlets.jw.MainAction?p1=2&eventSubmit_doNavigate=searchInSubtreeTOC&showdoccase=1&doc.hl=0&doc.id=jlr-KHAufsVBEpP1&doc.part=S&toc.poskey=#focuspoint
+    topic:
+
+  - title: DVO-Bestattungsgesetz
+    level: Berlin
+    url: http://gesetze.berlin.de/jportal/portal/t/10ot/page/bsbeprod.psml;jsessionid=09151CA098005553B39B428619CA8BB6.jp17?pid=Dokumentanzeige&showdoccase=1&js_peid=Trefferliste&documentnumber=1&numberofresults=43&fromdoctodoc=yes&doc.id=jlr-BestattGDVBErahmen&doc.part=X&doc.price=0.0&doc.hl=1#jlr-BestattGDVBEV6P2
+    topic: Bestattungswesen
+
+  - title: Badewesenüberwachung Berlin
+    level: Berlin
+    url: Verwaltungsvorschriften für die Überwachung der Hygiene in Einrichtungen des Badewesens mit Ausnahme von Freibädern
+    topic: Badegewaesser
+
+
+  - title: Heilpraktikergesetz
+    level: Deutschland
+    url: https://www.gesetze-im-internet.de/heilprg/BJNR002510939.html
+    topic: Weitere
+
+
+  - title: Datenschutz-Grundverordnung
+    level: EU
+    url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=celex%3A32016R0679
+    topic: Datenschutz
+
+  - title: Bundesdatenschutzgesetz
+    level: Deutschland
+    url: https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html
+    topic: Datenschutz
+
+  - title: Berliner Datenschutzgesetzt
+    level: Berlin
+    url: http://gesetze.berlin.de/jportal/?quelle=jlink&query=DSG+BE&psml=bsbeprod.psml&max=true&aiz=true
+    topic: Datenschutz
+
+  - title: Verordnung zur arbeitsmedizinischen Vorsorge
+    level: Deutschland
+    url: https://www.gesetze-im-internet.de/arbmedvv/BJNR276810008.html
+    topic: Arbeitsschutz
+
+  - title: Tarifvertrag für den Öffentlichen Dienst der Länder
+    level: Deutschland
+    url: https://www.tdl-online.de/tv-l/tarifvertrag.html
+    topic: Personalrecht
+
+  - title: Verwaltungsverfahrensgesetz
+    level:
+    url: https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html
+    topic:
+
+  - title: Verwaltungsgerichtsordnung
+    level: Deutschland
+    url: https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html
+    topic: Verwaltungsrecht
+
+  - title: Bürgerliches Gesetzbuch
+    level: Deutschland
+    url: https://www.gesetze-im-internet.de/bgb/BJNR001950896.html
+    topic: Verwaltungsrecht
+
+  - title: Rechtsbehelfsbelehrungsmuster im Internet
+    level: Deutschland
+    url: http://www.verwaltungsvorschriften-im-internet.de/bsvwvbund_12082013_VII11321206.htm
+    topic: Verwaltungsrecht
+
+  - title: Verwaltungzustellungsgesetz des Bundes
+    level: Deutschland
+    url: https://www.gesetze-im-internet.de/vwzg_2005/BJNR235410005.html
+    topic: Verwaltungsrecht
+
+  - title: Gesetz über das Verfahren der Berliner Verwaltung
+    level: Berlin
+    url: http://gesetze.berlin.de/jportal/?quelle=jlink&query=VwVfG+BE&psml=bsbeprod.psml&max=true&aiz=true#jlr-VwVfGBE2016pP1
+    topic: Verwaltungsrecht
+
+  - title: Gemeinsame Geschäftsordnung der Berliner Verwaltung
+    level: Berlin
+    url: https://www.berlin.de/sen/inneres/buerger-und-staat/verfassungs-und-verwaltungsrecht/geschaeftsordnung-der-berliner-verwaltung/
+    topic: Verwaltungsrecht
+
+  - title: Landesgebührenordnung Berlin
+    level:  Berlin
+    url: http://gesetze.berlin.de/jportal/?quelle=jlink&query=VwGebO+BE&psml=bsbeprod.psml&max=true&aiz=true
+    topic: Verwaltungsrecht
+
+  - title: Allgemeines Zuständigkeitsgesetz Berlin
+    level: Berlin
+    url: http://gesetze.berlin.de/jportal/?quelle=jlink&query=VwZustG+BE&psml=bsbeprod.psml&max=true&aiz=true
+    topic: Verwaltungsrecht
+
+  - title: E-Government-Gesetz
+    level: Berlin
+    url: http://gesetze.berlin.de/jportal/?quelle=jlink&query=EGovG+BE&psml=bsbeprod.psml&max=true
+    topic: Verwaltungsrecht
+
+  - title: Allgemeines Sicherheits- und Ordnungsgesetz Berlin
+    level: Berlin
+    normenhirarche: Verwaltungsvorschrift
+    topic: [Verwaltung]
+    abkuerzung: ASOG BE
+    fulltitle: Allgemeines Gesetz zum Schutz der öffentlichen Sicherheit und Ordnung in Berlin
+    date: 2006-10-11
+    url: "http://gesetze.berlin.de/jportal/?quelle=jlink&query=ASOG+BE&psml=bsbeprod.psml&max=true&aiz=true"
+
+  - title: Bestattungsgesetz Berlin
+    level: Berlin
+    normenhirarche: Gesetz
+    topic: Bestattungswesen
+    abkuerzung: BestattG BE
+    fulltitle: Gesetz über das Leichen- und Bestattungswesen Berlin
+    date: 2010-12-15
+    url: "http://gesetze.berlin.de/jportal/?quelle=jlink&query=BestattG+BE&psml=bsbeprod.psml&max=true&aiz=true"
+
+  - title: Biostoffverordnung
+    level: Deutschland
+    normenhirarche: Verordnung
+    topic: Infektionsschutz
+    abkuerzung: BioStoffV
+    fulltitle: Verordnung über Sicherheit und Gesundheitsschutz bei Tätigkeiten mit Biologischen Arbeitsstoffen
+    date: 2017-03-29
+    url: "http://www.gesetze-im-internet.de/biostoffv_2013/BJNR251410013.html"

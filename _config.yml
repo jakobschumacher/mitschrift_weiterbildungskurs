@@ -32,6 +32,11 @@ theme: minima
 plugins:
   - jekyll-feed
 
+
+# Gesetze Collections https://jekyllrb.com/docs/collections/
+collections:
+  gesetze:
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

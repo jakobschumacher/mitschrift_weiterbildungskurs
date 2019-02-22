@@ -1,0 +1,10 @@
+---
+name:
+geltungsbereich:
+normenhirarche:
+thema:
+abkuerzung:
+vollername:
+datum:
+iminternet:
+---
