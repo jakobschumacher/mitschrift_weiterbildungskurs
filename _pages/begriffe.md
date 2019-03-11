@@ -55,3 +55,5 @@ permalink: /begriffe/
 * [Legalitätsprinzip](https://de.wikipedia.org/wiki/Legalit%C3%A4tsprinzip): In bestimmten Fällen wird der Verwaltung kein Ermessen eingeräumt.
 * [Dezernat](https://de.wikipedia.org/wiki/Dezernat)
 * [Geschäftsverteilungsplan](https://de.wikipedia.org/wiki/Gesch%C3%A4ftsverteilungsplan)
+* Die Behörde entscheidet nach [pflichtgemäßem Ermessen](http://www.rechtslexikon.net/d/ermessen-verwaltungsermessen/ermessen-verwaltungsermessen.htm) ("So wie die Behörde, dass für angemessen hält")
+* _Von Amts wegen_ vs. _Von Antrag wegen_

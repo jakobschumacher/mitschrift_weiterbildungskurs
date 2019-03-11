@@ -4,8 +4,8 @@ title:  "Das öffentliche Gesundheitswesen in Deutschland"
 date:   2019-01-15 08:29:49 +0100
 categories: Erste-Woche
 permalink: das-oeffentliche-gesundheitswesen/
-
 ---
+
 ## Definitionen
 * __Gesundheit__ ist ein Zustand vollständigen körperlichen, psychischen und sozialen Wohlbefindens und nicht nur das Freisein von Beschwerden und Krankheit
 * Das __Gesundheitswesen__ umfasst alle Personen, Organisationen, Einrichtungen, Regelungen und Prozesse, deren Aufgabe die Förderung und Erhaltung der Gesundheit sowie deren Sicherung durch Vorbeugung und Behandlung von Krankheiten und Verletzungen ist.

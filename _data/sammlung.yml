@@ -1,124 +1,148 @@
   - title: Badegewässerverordnung Berlin
     level: Berlin
-    url: http://gesetze.berlin.de/jportal/?quelle=jlink&query=BadGewV+BE+%C2%A7+1&psml=bsbeprod.psml&max=true
+    iminternet: http://gesetze.berlin.de/jportal/?quelle=jlink&query=BadGewV+BE+%C2%A7+1&psml=bsbeprod.psml&max=true
     topic: 05_Badegewässerschutz
+    importance: 2
 
   - title: Badewesenüberwachung Berlin
     level: Berlin
-    url: https://www.umwelt-online.de/recht/gefstoff/gen_tech/bln/hygbade.htm
+    iminternet: https://www.umwelt-online.de/recht/gefstoff/gen_tech/bln/hygbade.htm
     topic: 05_Badegewässerschutz
+    importance: 2
 
   - title: EU-Badegewässerrichtlinie
     level: EU
-    url: https://eur-lex.europa.eu/eli/dir/2006/7/oj
+    iminternet: https://eur-lex.europa.eu/eli/dir/2006/7/oj
     topic: 05_Badegewässerschutz
+    importance: 2
 
   - title: Medizinprodukte-Betreiberverordnung
     level: Deutschland
-    url: https://www.gesetze-im-internet.de/mpbetreibv/BJNR176200998.html
+    iminternet: https://www.gesetze-im-internet.de/mpbetreibv/BJNR176200998.html
     topic: 03_Hygiene
+    importance: 2
 
   - title: Krankenhaus-Verordnung Berlin
     level: Berlin
-    url: http://gesetze.berlin.de/jportal/portal/t/wet/page/bsbeprod.psml?pid=Dokumentanzeige&showdoccase=1&js_peid=Trefferliste&documentnumber=1&numberofresults=66&fromdoctodoc=yes&doc.id=jlr-KHVBErahmen&doc.part=X&doc.price=0.0&doc.hl=1#focuspoint)
+    iminternet: http://gesetze.berlin.de/jportal/portal/t/wet/page/bsbeprod.psml?pid=Dokumentanzeige&showdoccase=1&js_peid=Trefferliste&documentnumber=1&numberofresults=66&fromdoctodoc=yes&doc.id=jlr-KHVBErahmen&doc.part=X&doc.price=0.0&doc.hl=1#focuspoint)
     topic: 03_Hygiene
+    importance: 3
 
   - title: Krankenhausaufsicht-Verordnung
     level: Berlin
-    url: http://gesetze.berlin.de/jportal/portal/t/r6u/page/bsbeprod.psml/action/portlets.jw.MainAction?p1=2&eventSubmit_doNavigate=searchInSubtreeTOC&showdoccase=1&doc.hl=0&doc.id=jlr-KHAufsVBEpP1&doc.part=S&toc.poskey=#focuspoint
+    iminternet: http://gesetze.berlin.de/jportal/portal/t/r6u/page/bsbeprod.psml/action/portlets.jw.MainAction?p1=2&eventSubmit_doNavigate=searchInSubtreeTOC&showdoccase=1&doc.hl=0&doc.id=jlr-KHAufsVBEpP1&doc.part=S&toc.poskey=#focuspoint
     topic: 03_Hygiene
+    importance: 3
 
   - title: DVO-Bestattungsgesetz
     level: Berlin
-    url: http://gesetze.berlin.de/jportal/portal/t/10ot/page/bsbeprod.psml;jsessionid=09151CA098005553B39B428619CA8BB6.jp17?pid=Dokumentanzeige&showdoccase=1&js_peid=Trefferliste&documentnumber=1&numberofresults=43&fromdoctodoc=yes&doc.id=jlr-BestattGDVBErahmen&doc.part=X&doc.price=0.0&doc.hl=1#jlr-BestattGDVBEV6P2
+    iminternet: http://gesetze.berlin.de/jportal/portal/t/10ot/page/bsbeprod.psml;jsessionid=09151CA098005553B39B428619CA8BB6.jp17?pid=Dokumentanzeige&showdoccase=1&js_peid=Trefferliste&documentnumber=1&numberofresults=43&fromdoctodoc=yes&doc.id=jlr-BestattGDVBErahmen&doc.part=X&doc.price=0.0&doc.hl=1#jlr-BestattGDVBEV6P2
     topic: 06_Bestattungswesen
+    importance: 3
 
   - title: Badewesenüberwachung Berlin
     level: Berlin
-    url: Verwaltungsvorschriften für die Überwachung der Hygiene in Einrichtungen des Badewesens mit Ausnahme von Freibädern
+    iminternet: Verwaltungsvorschriften für die Überwachung der Hygiene in Einrichtungen des Badewesens mit Ausnahme von Freibädern
     topic: 05_Badegewässerschutz
+    importance: 3
 
 
   - title: Heilpraktikergesetz
     level: Deutschland
-    url: https://www.gesetze-im-internet.de/heilprg/BJNR002510939.html
+    iminternet: https://www.gesetze-im-internet.de/heilprg/BJNR002510939.html
     topic: 07_Weitere
+    importance: 2
 
 
   - title: Datenschutz-Grundverordnung
     level: EU
-    url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=celex%3A32016R0679
+    iminternet: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=celex%3A32016R0679
     topic: 14_Datenschutz
+    importance: 2
 
   - title: Bundesdatenschutzgesetz
     level: Deutschland
-    url: https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html
+    iminternet: https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html
     topic: 14_Datenschutz
+    importance: 2
 
   - title: Berliner Datenschutzgesetzt
     level: Berlin
-    url: http://gesetze.berlin.de/jportal/?quelle=jlink&query=DSG+BE&psml=bsbeprod.psml&max=true&aiz=true
+    iminternet: http://gesetze.berlin.de/jportal/?quelle=jlink&query=DSG+BE&psml=bsbeprod.psml&max=true&aiz=true
     topic: 14_Datenschutz
+    importance: 1
 
   - title: Verordnung zur arbeitsmedizinischen Vorsorge
     level: Deutschland
-    url: https://www.gesetze-im-internet.de/arbmedvv/BJNR276810008.html
+    iminternet: https://www.gesetze-im-internet.de/arbmedvv/BJNR276810008.html
     topic: 11_Arbeitsschutz
+    importance: 1
 
   - title: Tarifvertrag für den Öffentlichen Dienst der Länder
     level: Deutschland
-    url: https://www.tdl-online.de/tv-l/tarifvertrag.html
+    iminternet: https://www.tdl-online.de/tv-l/tarifvertrag.html
     topic: 12_Personalrecht
+    importance: 2
 
   - title: Verwaltungsverfahrensgesetz
     level: Deutschland
-    url: https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html
+    iminternet: https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html
     topic: 13_Verwaltungsrecht
+    importance: 2
 
   - title: Verwaltungsgerichtsordnung
     level: Deutschland
-    url: https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html
+    iminternet: https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html
     topic: 13_Verwaltungsrecht
+    importance: 2
 
   - title: Bürgerliches Gesetzbuch
     level: Deutschland
-    url: https://www.gesetze-im-internet.de/bgb/BJNR001950896.html
+    iminternet: https://www.gesetze-im-internet.de/bgb/BJNR001950896.html
     topic: 13_Verwaltungsrecht
+    importance: 1
 
   - title: Rechtsbehelfsbelehrungsmuster im Internet
     level: Deutschland
-    url: http://www.verwaltungsvorschriften-im-internet.de/bsvwvbund_12082013_VII11321206.htm
+    iminternet: http://www.verwaltungsvorschriften-im-internet.de/bsvwvbund_12082013_VII11321206.htm
     topic: 13_Verwaltungsrecht
+    importance: 3
 
   - title: Verwaltungzustellungsgesetz des Bundes
     level: Deutschland
-    url: https://www.gesetze-im-internet.de/vwzg_2005/BJNR235410005.html
+    iminternet: https://www.gesetze-im-internet.de/vwzg_2005/BJNR235410005.html
     topic: 13_Verwaltungsrecht
+    importance: 3
 
   - title: Gesetz über das Verfahren der Berliner Verwaltung
     level: Berlin
-    url: http://gesetze.berlin.de/jportal/?quelle=jlink&query=VwVfG+BE&psml=bsbeprod.psml&max=true&aiz=true#jlr-VwVfGBE2016pP1
+    iminternet: http://gesetze.berlin.de/jportal/?quelle=jlink&query=VwVfG+BE&psml=bsbeprod.psml&max=true&aiz=true#jlr-VwVfGBE2016pP1
     topic: 13_Verwaltungsrecht
+    importance: 2
 
   - title: Gemeinsame Geschäftsordnung der Berliner Verwaltung
     level: Berlin
-    url: https://www.berlin.de/sen/inneres/buerger-und-staat/verfassungs-und-verwaltungsrecht/geschaeftsordnung-der-berliner-verwaltung/
+    iminternet: https://www.berlin.de/sen/inneres/buerger-und-staat/verfassungs-und-verwaltungsrecht/geschaeftsordnung-der-berliner-verwaltung/
     topic: 13_Verwaltungsrecht
+    importance: 2
 
   - title: Landesgebührenordnung Berlin
     level:  Berlin
-    url: http://gesetze.berlin.de/jportal/?quelle=jlink&query=VwGebO+BE&psml=bsbeprod.psml&max=true&aiz=true
+    iminternet: http://gesetze.berlin.de/jportal/?quelle=jlink&query=VwGebO+BE&psml=bsbeprod.psml&max=true&aiz=true
     topic: 13_Verwaltungsrecht
+    importance: 3
 
   - title: Allgemeines Zuständigkeitsgesetz Berlin
     level: Berlin
-    url: http://gesetze.berlin.de/jportal/?quelle=jlink&query=VwZustG+BE&psml=bsbeprod.psml&max=true&aiz=true
+    iminternet: http://gesetze.berlin.de/jportal/?quelle=jlink&query=VwZustG+BE&psml=bsbeprod.psml&max=true&aiz=true
     topic: 13_Verwaltungsrecht
+    importance: 3
 
   - title: E-Government-Gesetz
     level: Berlin
-    url: http://gesetze.berlin.de/jportal/?quelle=jlink&query=EGovG+BE&psml=bsbeprod.psml&max=true
+    iminternet: http://gesetze.berlin.de/jportal/?quelle=jlink&query=EGovG+BE&psml=bsbeprod.psml&max=true
     topic: 13_Verwaltungsrecht
+    importance: 3
 
   - title: Allgemeines Sicherheits- und Ordnungsgesetz Berlin
     level: Berlin
@@ -127,7 +151,8 @@
     abkuerzung:  ASOG BE
     fulltitle: Allgemeines Gesetz zum Schutz der öffentlichen Sicherheit und Ordnung in Berlin
     date: 2006-10-11
-    url: "http://gesetze.berlin.de/jportal/?quelle=jlink&query=ASOG+BE&psml=bsbeprod.psml&max=true&aiz=true"
+    iminternet: "http://gesetze.berlin.de/jportal/?quelle=jlink&query=ASOG+BE&psml=bsbeprod.psml&max=true&aiz=true"
+    importance: 2
 
   - title: Bestattungsgesetz Berlin
     level: Berlin
@@ -136,7 +161,8 @@
     abkuerzung:  BestattG BE
     fulltitle: Gesetz über das Leichen- und Bestattungswesen Berlin
     date: 2010-12-15
-    url: "http://gesetze.berlin.de/jportal/?quelle=jlink&query=BestattG+BE&psml=bsbeprod.psml&max=true&aiz=true"
+    iminternet: "http://gesetze.berlin.de/jportal/?quelle=jlink&query=BestattG+BE&psml=bsbeprod.psml&max=true&aiz=true"
+    importance: 1
 
   - title: Trinkwasserverordnung
     geltungsbereich: Deutschland
@@ -145,7 +171,8 @@
     abkuerzung: TrinkWV
     fulltitle:  Verordnung über die Qualität von Wasser für den menschlichen Gebrauch
     date: 2018-01-03
-    url: "https://www.gesetze-im-internet.de/trinkwv_2001/BJNR095910001.html"
+    iminternet: "https://www.gesetze-im-internet.de/trinkwv_2001/BJNR095910001.html"
+    importance: 1
 
 
   - title: EU-Trinkwasserrichtlinie
@@ -155,7 +182,8 @@
     abkuerzung: Richtlinie 98/83/EG
     fulltitle:  Richtlinie 98/83/EG des Rates vom 3. November 1998 über die Qualität von Wasser für den menschlichen Gebrauch
     date: 1998-11-03
-    url: "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0083"
+    iminternet: "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0083"
+    importance: 3
 
   - title: Biostoffverordnung
     level: Deutschland
@@ -164,7 +192,8 @@
     abkuerzung:  BioStoffV
     fulltitle: Verordnung über Sicherheit und Gesundheitsschutz bei Tätigkeiten mit Biologischen Arbeitsstoffen
     date: 2017-03-29
-    url: "http://www.gesetze-im-internet.de/biostoffv_2013/BJNR251410013.html"
+    iminternet: "http://www.gesetze-im-internet.de/biostoffv_2013/BJNR251410013.html"
+    importance: 3
 
 
 
@@ -175,7 +204,8 @@
     abkuerzung: GDG BE
     fulltitle:  Gesetz über den öffentlichen Gesundheitsdienst
     date: 2016-06-17
-    url: "http://gesetze.berlin.de/jportal/?quelle=jlink&query=%C3%96GesDG+BE&psml=bsbeprod.psml&max=true&aiz=true"
+    iminternet: "http://gesetze.berlin.de/jportal/?quelle=jlink&query=%C3%96GesDG+BE&psml=bsbeprod.psml&max=true&aiz=true"
+    importance: 1
 
   - title: Hygieneverordnung Berlin
     geltungsbereich: Berlin
@@ -184,7 +214,8 @@
     abkuerzung: MedHygV BE
     fulltitle:  Verordnung zur Regelung der Hygiene in medizinischen Einrichtungen
     date: 12. Juni 2012
-    url: "http://gesetze.berlin.de/jportal/?quelle=jlink&query=MedHygV+BE&psml=bsbeprod.psml&max=true&aiz=true"
+    iminternet: "http://gesetze.berlin.de/jportal/?quelle=jlink&query=MedHygV+BE&psml=bsbeprod.psml&max=true&aiz=true"
+    importance: 1
 
   - title: Verwaltungsvorschrift-IfSG-Koordinierung
     geltungsbereich: Deutschland
@@ -193,7 +224,8 @@
     abkuerzung: IfSGKoordinierungs-VwV
     fulltitle:  Allgemeine Verwaltungsvorschrift über die Koordinierung des Infektionsschutzes in epidemisch bedeutsamen Fällen
     date: 2013-12-12
-    url: "http://www.verwaltungsvorschriften-im-internet.de/bsvwvbund_12122013_31945300302.htm"
+    iminternet: "http://www.verwaltungsvorschriften-im-internet.de/bsvwvbund_12122013_31945300302.htm"
+    importance: 3
 
   - title: IfSG Meldepflichtverordnung Berlin
     geltungsbereich: Berlin
@@ -202,7 +234,8 @@
     abkuerzung: IfSG-MeldepflichtV BE
     fulltitle:  Verordnung über die Ausdehnung der Meldepflicht für Krankheiten und Krankheitserreger nach dem Infektionsschutzgesetz
     date: 2013-03-19
-    url: "http://gesetze.berlin.de/jportal/?quelle=jlink&query=IfSGMeldpflV+BE&psml=bsbeprod.psml&max=true&aiz=true"
+    iminternet: "http://gesetze.berlin.de/jportal/?quelle=jlink&query=IfSGMeldpflV+BE&psml=bsbeprod.psml&max=true&aiz=true"
+    importance: 3
 
   - title: Infektionsschutzgesetz
     geltungsbereich: Deutschland
@@ -211,7 +244,8 @@
     abkuerzung: IfSG
     fulltitle:  Gesetz zur Verhütung und Bekämpfung von Infektionskrankheiten beim Menschen
     date: 2018-12-11
-    url: "http://www.gesetze-im-internet.de/ifsg/BJNR104510000.html"
+    iminternet: "http://www.gesetze-im-internet.de/ifsg/BJNR104510000.html"
+    importance: 1
 
   - title: IGV-Durchführungsgesetz
     geltungsbereich: Deutschland
@@ -220,7 +254,8 @@
     abkuerzung: IGV-DG
     fulltitle:  "Gesetz zur Durchführung der Internationalen Gesundheitsvorschriften (2005) "
     date: 2013-03-21
-    url: "http://www.gesetze-im-internet.de/igv-dg/BJNR056610013.html"
+    iminternet: "http://www.gesetze-im-internet.de/igv-dg/BJNR056610013.html"
+    importance: 3
 
   - title: International health regulations
     geltungsbereich: Weltweit
@@ -229,7 +264,8 @@
     abkuerzung: IHR
     fulltitle:  International health regulations
     date: 2007-06-15
-iminternet : "https://apps.who.int/iris/bitstream/handle/10665/43883/9789241580410_eng.pdf;jsessionid=6A2F39B1FCBAF3323466188E5030C559?sequence=1"
+    iminternet : "https://apps.who.int/iris/bitstream/handle/10665/43883/9789241580410_eng.pdf;jsessionid=6A2F39B1FCBAF3323466188E5030C559?sequence=1"
+    importance: 2
 
   - title: Infektionsverhütungsordnung Berlin
     geltungsbereich: Berlin
@@ -238,22 +274,70 @@ iminternet : "https://apps.who.int/iris/bitstream/handle/10665/43883/97892415804
     abkuerzung: InfektionsverhuetungsVO
     fulltitle:  Verordnung zur Verhütung übertragbarer Krankheiten bei bestimmten gewerblichen Tätigkeiten
     date: 2017-05-05
-    url: "http://gesetze.berlin.de/jportal/?quelle=jlink&query=IfVerhV+BE&psml=bsbeprod.psml&max=true&aiz=true"
+    iminternet: "http://gesetze.berlin.de/jportal/?quelle=jlink&query=IfVerhV+BE&psml=bsbeprod.psml&max=true&aiz=true"
+    importance: 2
 
   - title: Schädlingsbekämpfungsverordnung Berlin
     geltungsbereich: Berlin
     normenhirarche: Verordnung
-    topic: "Umweltbezogener Gesundheitsschutz"
+    topic: "05_Umweltbezogener Gesundheitsschutz"
     abkuerzung: SchädlingsbekämpfungsV
     fulltitle:  Verordnung über die Bekämpfung von Gesundheitsschädlingen
     date: 2011-08-16
-iminternet : "http://gesetze.berlin.de/jportal/?quelle=jlink&query=Sch%C3%A4dlBekV+BE+%C2%A7+1&psml=bsbeprod.psml&max=true"
+    iminternet : "http://gesetze.berlin.de/jportal/?quelle=jlink&query=Sch%C3%A4dlBekV+BE+%C2%A7+1&psml=bsbeprod.psml&max=true"
+    importance: 1
 
   - title: Seuchenalarmplan Berlin
     geltungsbereich: Berlin
     normenhirarche: Verwaltungsvorschrift
-    topic: Katastrophenschutz
+    topic: 08_Katastrophenschutz
     abkuerzung: Seuchenalarmplan BE
     fulltitle:  Seuchenalarmplan für das Land Berlin - Stand 2017
     date: 2017-09-02
-    url: "https://www.berlin.de/sen/gesundheit/_assets/themen/gesundheitsschutz-und-umwelt/infektionsschutz/seuchenalarmplan_2017.pdf"
+    iminternet: "https://www.berlin.de/sen/gesundheit/_assets/themen/gesundheitsschutz-und-umwelt/infektionsschutz/seuchenalarmplan_2017.pdf"
+    importance: 2
+
+
+  - title: Sozialgesetzbuch I
+    geltungsbereich: Deutschland
+    normenhirarchie: Gesetz
+    topic: 10_Sozialrecht
+    abkuerzung: SGB I
+    fulltitle: Das Erste Buch Sozialgesetzbuch
+    iminternet: https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html
+    importance: 2
+
+  - title: Grundgesetz
+    abkuerzung: GG
+    normenhirarchie: Verfassung
+    fulltitle: Grundgesetz für die Bundesrepublik Deutschland
+    iminternet: https://www.gesetze-im-internet.de/gg/BJNR000010949.html
+    importance: 1
+    topic: 10_Grundlagen
+
+  - title: Menschenrechte
+    fulltitle:  Allgemeine Erklärung der Menschenrechte
+    normenhirarchie: Resoultion
+    geltungsbereich: weltweit
+    topic: 10_Grundlagen
+    iminternet: http://www.un.org/depts/german/menschenrechte/aemr.pdf
+
+  - title: Verfassung von Berlin
+    iminternet: http://gesetze.berlin.de/jportal/?quelle=jlink&query=Verf+BE&psml=bsbeprod.psml&max=true&aiz=true
+    fulltitle: Verfassung von Berlin
+    abkuerzung: Verf BE
+    topic: 10_Grundlagen
+    geltungsbereich: Berlin
+
+  - title: Vertrag über die Europäische Union
+    abkuerzung: Maastricht Vertrag
+    iminternet: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=celex:11992M/TXT
+    fulltitle: Konsolidierte  Fassungen  des  Vertrags  über  die  Europäische  Union  und  des  Vertrags  über  die  Arbeitsweise  der  Europäischen  Union
+    topic: 10_Grundlagen
+    geltungsbereich: EU
+
+  - title: Vertrag von Lissabon
+    iminternet: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A12007L%2FTXT
+    date: 2007-12-17
+    fulltitle: Vertrag von Lissabon zur Änderung des Vertrags über die Europäische Union und des Vertrags zur Gründung der Europäischen Gemeinschaft
+    topic: 10_Grundlagen
