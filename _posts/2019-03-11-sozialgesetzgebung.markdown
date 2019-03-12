@@ -3,7 +3,7 @@ layout: post
 title:  "Sozialrecht"
 date:   2019-03-11 09:00:00 +0100
 categories: Dritte-Woche
-permalink: sozialrecht/
+permalink: sozialpolitik/
 
 ---
 ##  Historische Einführung

@@ -341,3 +341,13 @@
     date: 2007-12-17
     fulltitle: Vertrag von Lissabon zur Änderung des Vertrags über die Europäische Union und des Vertrags zur Gründung der Europäischen Gemeinschaft
     topic: 10_Grundlagen
+
+  - title: Strafgesetzbuch
+    abkuerzung: StGB
+    iminternet: https://www.gesetze-im-internet.de/stgb/
+    topic: 15_Strafrechts
+
+  - title: Ordnungswidrigkeitsgesetz
+    abkuerzung: OWiG
+    fulltitle: Gesetz über Ordnungswidrigkeiten
+    iminternet: https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html

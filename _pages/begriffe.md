@@ -57,3 +57,8 @@ permalink: /begriffe/
 * [Geschäftsverteilungsplan](https://de.wikipedia.org/wiki/Gesch%C3%A4ftsverteilungsplan)
 * Die Behörde entscheidet nach [pflichtgemäßem Ermessen](http://www.rechtslexikon.net/d/ermessen-verwaltungsermessen/ermessen-verwaltungsermessen.htm) ("So wie die Behörde, dass für angemessen hält")
 * _Von Amts wegen_ vs. _Von Antrag wegen_
+* _Verbrechen_ (Straftat länger als 1 Jahr) vs. _Vergehen_ (Straftat kürzer als ein Jahr) siehe §12 StGB
+* [Schuldfähigkeit](https://de.wikipedia.org/wiki/Schuldunf%C3%A4higkeit):
+  * Einsichtsfähigkeit
+  * Steuerungsfähigkeit
+* Verminderte Schuldfähigkeit steht in [§ 21 StGB](https://www.gesetze-im-internet.de/stgb/__21.html)
