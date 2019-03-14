@@ -11,3 +11,6 @@ permalink: /lernen/
 
 ## Sozialpolitik
 * [Sozialpolitik Themenheft Bundeszentrale für politische Bildung](http://www.bpb.de/izpb/214320/sozialpolitik)
+
+# EU und Europa
+* [EU-Internetseite: Was machen die EU im Bereich Gesundheit](https://europa.eu/european-union/topics/health_de)
