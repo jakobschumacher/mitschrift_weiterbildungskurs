@@ -2,7 +2,7 @@
 layout: post
 title:  "Das öffentliche Gesundheitswesen in Deutschland"
 date:   2019-01-15 08:29:49 +0100
-categories: Erste-Woche
+categories: Modul-1a
 permalink: das-oeffentliche-gesundheitswesen/
 ---
 

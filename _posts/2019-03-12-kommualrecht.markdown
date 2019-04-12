@@ -2,7 +2,7 @@
 layout: post
 title:  "Kommunalrecht"
 date:   2019-03-12 15:00:00 +0100
-categories: Dritte-Woche
+categories: Modul-1a
 permalink: kommunalrecht/
 ---
 # Unterteilung der Verwaltung

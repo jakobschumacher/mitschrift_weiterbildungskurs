@@ -2,11 +2,11 @@
 layout: post
 title:  "Europa und Gesundheit"
 date:   2019-01-17 08:29:49 +0100
-categories: Erste-Woche
+categories: Modul-1a
 permalink: europa-und-gesundheit/
 ---
 
-## Resourcen 
+## Resourcen
 * [Vergleich Impfsysteme](http://www.euro.who.int/__data/assets/pdf_file/0008/386684/vaccination-report-eng.pdf)
 * [Liste der Health-System-Reviews](http://www.euro.who.int/en/about-us/partners/observatory/publications/health-system-reviews-hits/full-list-of-country-hits)
 * [ÖGD-Vergleich](http://www.euro.who.int/en/about-us/partners/observatory/publications/studies/the-role-of-public-health-organizations-in-addressing-public-health-problems-in-europe-the-case-of-obesity,-alcohol-and-antimicrobial-resistance-2018)

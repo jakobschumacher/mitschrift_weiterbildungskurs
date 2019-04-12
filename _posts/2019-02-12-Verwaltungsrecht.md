@@ -2,7 +2,7 @@
 layout: post
 title:  "Grundzüge Verwaltungsrecht"
 date:   2019-02-12 08:00:00 +0100
-categories: Zweite-Woche
+categories: Modul-1a
 permalink: verwaltungsrecht/
 ---
 

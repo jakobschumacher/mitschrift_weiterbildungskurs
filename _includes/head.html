@@ -11,4 +11,14 @@
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
   {%- endif -%}
+
+  <!-- For the .CSS -->
+{% if page.leaflet == true %}
+<link href="https://unpkg.com/leaflet@1.0.2/dist/leaflet.css" rel="stylesheet" />
+{% endif %}
+
+<!-- For the .js -->
+{% if page.leaflet == true %}
+<script src="https://unpkg.com/leaflet@1.0.2/dist/leaflet.js"></script>
+{% endif %}
 </head>

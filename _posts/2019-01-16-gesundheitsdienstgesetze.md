@@ -2,7 +2,7 @@
 layout: post
 title:  "Gesundheitsdienstgesetze"
 date:   2019-01-16 08:29:49 +0100
-categories: Erste-Woche
+categories: Modul-1a
 permalink: gesundheitsdienstgesetze/
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Praxis des Verwaltungsrechts"
 date:   2019-02-12 08:00:00 +0100
-categories: Zweite-Woche Verwaltungsrecht
+categories: Modul-1a
 permalink: praxis-des-verwaltungsrechts/
 ---
 

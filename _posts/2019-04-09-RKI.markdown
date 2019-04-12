@@ -1,0 +1,83 @@
+---
+layout: post
+title:  "Das Robert Koch-Institut"
+date:   2019-04-09 08:29:49 +0100
+categories: Modul-1a
+permalink: rki/
+---
+
+## Aufteilung des RKI
+* Das RKI ist in mehrere Abteilungen aufgeteilt [Organigramm](https://www.rki.de/DE/Content/Institut/OrgEinheiten/Organigramm_PDF.pdf;jsessionid=FD526BF917454040295189608CCAD66D.2_cid298?__blob=publicationFile)
+
+## Abteilung I
+* Abteilung 1 ist in 9 Fachgebiete aufgeteilt
+* Abteilung 1 charakterisiert Erreger und Mechanismen der Pathogenese, Persistenz und der Inaktivierung
+* In der Abteilung 1 sind mehrere Nationale Referenzzentren und Konsiliarlabore
+* Nationales Referenzzentrum
+  * Verbesserung Diagnostik
+  * Feintypisierung von Erregern
+  * Pflege des Netzwerks
+  * Beratungstätigkeit des ÖGD
+  * Auswertung von Daten
+  * Ausbruchsuntersuchung
+* Konsiliarlabor
+  * Beratungstätigkeit
+  * Spezifische Laborleistungen
+  * Weiterentwicklung Diagnostik
+* Die Abteilung 1 macht Politikberatung
+* Fachgebiet 14
+  * Erstellt gemäß § 18 die Liste der Desinfektionsmittel
+  * Betreut gemäß § 23 die KRINKO
+* Empfehlung des Autors: Die folgende Tabelle ist hilfreich "[Infektionsprävention im Rahmen der Pflege und Behandlung von Patienten mit übertragbaren krankheiten, 2015](https://www.rki.de/DE/Content/Infekt/Krankenhaushygiene/Kommission/Downloads/Infektionspraev_Pflege_Diagnostik_Therapie.pdf?__blob=publicationFile)"
+* Das Verfahren der Krinko steht im Artikel: [Zur Fortentwicklung der Arbeiten bei den Empfehlungen der Kommission für Krankenhaushygiene und Infektionsprävention](https://www.rki.de/DE/Content/Infekt/Krankenhaushygiene/ThemenAZ/T/Art_10.pdf?__blob=publicationFile)
+* Es gibt unterschiedliche Kategorien der Empfehlungen I - IV
+* Die Abteilung 1 arbeitet mit bei den Ratgebern
+
+* Die Fachgebiet 14 stellt auf der [Themenseite Krankenhaushygiene A-Z](https://www.rki.de/DE/Content/Infekt/Krankenhaushygiene/ThemenAZ/ThemenAZ_node.html) wichtige Fragen und Antworten zusammen.
+
+## Abteilung 3
+* Drei zentrale Aufgaben
+  * Management von Daten
+  * Entwicklung von Public Health Maßnahmen
+    * Angewandte Forschung
+    * Zusammenarbeit
+    * Versorgungsforschung
+  * Ausbau von nationalen und internationalen Strukturen
+* Beratung für den ÖGD
+  * surveillance@rki.de
+  * 24/7 Rufdienst 030-18754-0
+* Fachgebiet 32 - Meldewesen
+  * Ergänzende Surveillancesysteme
+    * ESEG
+    * Influenza
+    * KV-Impfsurveillance
+  * Ziele der Surveillance
+    * Erkennen von Trends und Ereignissen
+    * Abschätzung der Krankheitslast
+    * Beobachtung Präventionsziele
+    * Evaluierung von Maßnahmen
+    * Information von Entscheidungsträgern
+* Fachgebiet 32 - Preparedness und Response
+  * Internationale Meldungen
+  * Epidemic Intelligence
+  * Generitsche nationale Krisenplanung
+  * RKI-interne Krisenplanung
+  * Infektionskrankheiten im Reiseverkehr
+
+## Abteilung ZBS
+* ZBS ist 2003 als Reaktion auf 9/11 erstellt worden
+* Bioterroristische Bedrohungslagen
+* Auftreten seltener hochpathogener Erkrankungen
+* [Abteilungen](https://www.rki.de/DE/Content/Institut/OrgEinheiten/ZBS/zbs_node.html)
+  * IBBS
+  * ZBS 1- ZBS 6
+* Hochpathogene Erregerliste
+* NaLaDiBA ist ein Netzwerk für hochpathogene Erreger
+* Standardisiertes Vorgehen bei ABC Gefährdungslage
+  1. Liegen Hinweise auf einen Anschlag vor
+  2. Prüfschritt handelt es sich um einen konventionellen Anschlag
+  3. Gibt es Hinweise auf einen nicht-konventionellen Anschlag
+  4. Prüfschritt: Falls Ja Anschlag handelt es sich um C, B oder RN
+  5. Prüfschritt: Untersuchung auf Biologie
+* In Berlin ist das LKA gleichzeitig auch die Analytik
+* Herausforderung 1: Strategische Gefährdungsbewertung

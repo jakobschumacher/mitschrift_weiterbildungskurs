@@ -62,3 +62,9 @@ permalink: /begriffe/
   * Einsichtsfähigkeit
   * Steuerungsfähigkeit
 * Verminderte Schuldfähigkeit steht in [§ 21 StGB](https://www.gesetze-im-internet.de/stgb/__21.html)
+* [Haushaltsplan](https://www.berlin.de/sen/finanzen/haushalt/downloads/haushaltsplan-2018-19/): Enthält alle Einnahmen und Ausgaben eines Rechnungsjahres
+* Kameraler Haushaltsplan: Einnahmen und Ausgaben gegenübereinander gestellt
+* Stellenplan: Enhält die Anzahl der Stellen
+* Kassenwirksam: Der Grundsatz der Kassenwirksamkeit bezeichnet in der Kameralistik einen Haushaltsgrundsatz, der besagt, dass im kameralen Haushaltsplan nur diejenigen Einnahmen und Ausgaben veranschlagt werden dürfen, die im betrachteten Haushaltsjahr voraussichtlich der Kasse zufließen bzw. von ihr abfließen werden.
+* [Amtshilfe](https://de.wikipedia.org/wiki/Amtshilfe)
+* [Vollzugshilfe](https://de.wikipedia.org/wiki/Vollzugshilfe)

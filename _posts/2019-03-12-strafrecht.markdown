@@ -2,7 +2,7 @@
 layout: post
 title:  "Strafrecht"
 date:   2019-03-12 09:00:00 +0100
-categories: Dritte-Woche
+categories: Modul-1a
 permalink: strafrecht/
 ---
 

@@ -40,13 +40,6 @@
     topic: 06_Bestattungswesen
     importance: 3
 
-  - title: Badewesenüberwachung Berlin
-    level: Berlin
-    iminternet: Verwaltungsvorschriften für die Überwachung der Hygiene in Einrichtungen des Badewesens mit Ausnahme von Freibädern
-    topic: 05_Badegewässerschutz
-    importance: 3
-
-
   - title: Heilpraktikergesetz
     level: Deutschland
     iminternet: https://www.gesetze-im-internet.de/heilprg/BJNR002510939.html
@@ -66,7 +59,7 @@
     topic: 14_Datenschutz
     importance: 2
 
-  - title: Berliner Datenschutzgesetzt
+  - title: Berliner Datenschutzgesetz
     level: Berlin
     iminternet: http://gesetze.berlin.de/jportal/?quelle=jlink&query=DSG+BE&psml=bsbeprod.psml&max=true&aiz=true
     topic: 14_Datenschutz
@@ -345,9 +338,10 @@
   - title: Strafgesetzbuch
     abkuerzung: StGB
     iminternet: https://www.gesetze-im-internet.de/stgb/
-    topic: 15_Strafrechts
+    topic: 13_Verwaltungsrecht
 
   - title: Ordnungswidrigkeitsgesetz
     abkuerzung: OWiG
     fulltitle: Gesetz über Ordnungswidrigkeiten
     iminternet: https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html
+    topic: 13_Verwaltungsrecht

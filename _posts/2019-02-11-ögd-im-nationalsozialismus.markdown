@@ -2,7 +2,7 @@
 layout: post
 title:  "Das öffentliche Gesundheitswesen im Nationalsozialismus"
 date:   2019-02-11 08:29:49 +0100
-categories: Zweite-Woche
+categories: Modul-1a
 permalink: der-oegd-im-nationalsozialismus/
 ---
 ## Zum Nachlesen

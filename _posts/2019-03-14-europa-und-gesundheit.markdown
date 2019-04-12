@@ -2,7 +2,7 @@
 layout: post
 title:  "Europa und Gesundheit"
 date:   2019-03-12 15:00:00 +0100
-categories: Dritte-Woche
+categories: Modul-1a
 permalink: europa-und-gesundheit/
 ---
 
@@ -107,12 +107,13 @@ EU Gesundheitspolitik
   9. Förderung Gesundheits-Kommunikation (Enabler)
   10. Förderung der Forschung (Enabler)
 
-# Gruppenarbeit EPHOS
+# Gruppenarbeit EPHO 9
 * Positiv-Liste
   - Besucher des BFB werden beraten bzgl. Raucherentwöhnung
   - Besucher von Zentren für sexuelle Gesundheit werden beraten
   - Besucher des Sozialpsychiatrischen Dienstes werden für das Hilfesystem aufgeklärt
   - Gesundheitswegweiser
+  - Schulaufklärung zu sexuellen Krankheiten
 
 * Negativ-Liste
   - Keine Aktivitäten zur Prävention von psychischen Erkrankungen
@@ -124,4 +125,4 @@ Beispiel Verhinderung von jugendlichen Rauchern durch das Gesundheitsamt
   - Aufgreifen des Themas
   - Rauchfrei an der Schule
   - Nichtraucherwettbewerb
-* Flyer für Raucherentwöhnung
+* Flyer Wo finde ich Hilfe, wenn ich als Jugendlicher mit dem Rauchen aufhören will
