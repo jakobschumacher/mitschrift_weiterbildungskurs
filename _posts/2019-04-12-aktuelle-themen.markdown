@@ -4,6 +4,7 @@ title:  "Aktuelle Themen"
 date:   2019-04-12 08:29:49 +0100
 categories: Modul-1a
 permalink: aktuelle-themen/
+comments: true
 ---
 
 ## Streik
