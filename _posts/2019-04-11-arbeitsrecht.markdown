@@ -4,7 +4,6 @@ title:  "Arbeits-, Dienst- und Tarifrecht im öffentlichen Dienst"
 date:   2019-04-11 08:29:49 +0100
 categories: Modul-1a
 permalink: arbeitsrecht/
-comments: true
 ---
 
 ## Arbeitsrecht

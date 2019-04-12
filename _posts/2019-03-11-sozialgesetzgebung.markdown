@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sozialrecht"
+title:  "Sozialpolitik"
 date:   2019-03-11 09:00:00 +0100
 categories: Modul-1a
 permalink: sozialpolitik/
