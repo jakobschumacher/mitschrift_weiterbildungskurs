@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Europa und Gesundheit"
+title:  "Europäischer Vergleich"
 date:   2019-01-17 08:29:49 +0100
 categories: Modul-1a
-permalink: europa-und-gesundheit/
+permalink: europaeischer-vergleich/
 ---
 
 ## Resourcen
