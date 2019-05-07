@@ -67,3 +67,73 @@ graph LR;
 
 ## Bundesärzteordnung
 * [Bundesärzteordnung](https://www.gesetze-im-internet.de/b_o/BJNR018570961.html)
+
+
+## Definition Öffentliche Gesundheit
+* Definition von Winslow: _the science and art of preventing disease, prolonging life and promoting health and efficiency through organized community effort for the sanitation of the environment, the control of communicable infections, the education of the individual in personal hygiene, the organization of medical and nursing services for the early diagnosis and preventive treatment of disease, and for the development of the social machinery to insure everyone a standard of living adequate for the maintenance of health, so organizing these benefits as to enable every citizen to realize his birthright of health and longevity_
+  1. Krankheiten verhindern
+  2. Leben verlängern
+  3. Gesundheit fördern
+  * Wissenschaft und Praxis
+  * Organisierte öffentliche Anstrengung
+* Definition Institute of Medicine (IOM) (1988): _Die Aufgabe von Public Health ist die Wahrnehmung des Interesses der Gesellschaft an der Schaffung von Bedingungen, in denen Menschen gesund leben können_
+
+* Wer publiziert mit wem?
+
+* Wer bestimmt die öffentliche Debatte bei Gesundheitsthemen?
+
+* Old vs. new public health
+
+* Der ÖGD ist der Kampfhund an der Kette der Ministerien für Gesundheit
+
+* Akteure
+  * PH-Unis
+  * NGOs
+
+
+* Gesundheitssystem
+* Behandlung von Kranken  
+* Verbesserung von Determinanten
+* Gesetze und Überwachung
+* Gesundheitserziehung
+* Politik-Beratung
+* Gesundheitsberichtserstattung Epidemiologie
+* Erarbeitung von Public Health Methoden
+* Forschung
+* Vernetzung
+
+World federation of public health associations
+Core functions
+  * Protection
+  * Promotion
+  * Prevention
+Enablers
+  * Governance
+  * Advocacy
+  * Capacity
+  * Information
+
+Bausteine von Public Health: US Council of Education for Public Health und der European Agency for Public Health Education Accreditation  
+  * Methodik der Public Health
+  * Epidemiologie, Gesundheit der Bevölkerung und ihre Determinanten
+  * Gesundheitspolitik und Gesundheitsökonomie
+  * Leitung und Verwaltung von Gesundheitsdiensten
+  * Gesundheitserziehung und -förderung
+  * Gesundheitspolitik
+  * Sozial- und Verhaltensepidemiologie
+  * Interdisziplinäre Themen wie: Biowissenschaften, Evolution, Recht, Ethik, Alternsforschung, Ernährung, Gesundheit von Mutter und Kind, psychische Gesundheit, Demographie, Einsatz von Informationstechnologie (IT), Gesunheitsinformatik, Führungsqualitäten und Entscheidungsfindung, Psychologie, Soziologie, Global Health, Marketing, Kommunikation und Interessenvertretung, Gesundheitsanthropologie, Menschenrechte, Planung und Entwicklung von Programmen, Public-Health-Genomik, Technologieentwicklung und Gesundheitserziehung
+
+Zehn wesentliche gesundheitspolitische Maßnahmen der WHO, 2011:
+  1. Überwachung von Krankheiten und Beurteilung der Gesundheit der Bevölkerung
+  2. Bestimmung vorrangiger Gesundheitsprobleme und Gesundheitsgefahren in der Gemeinschaft
+  3. Vorsorge und Planung für Notfälle im Bereich der öffentlichen Gesundheit
+  4. Gesundheitsschutzmaßnahmen (bei Umwelt-, Arbeits- und Nahrungsmittelsicherheit sowie in anderen Bereichen)
+  5. Krankheitsprävention
+  6. Gesundheitsförderung
+  7. Gewährleistung von kompetentem Personal in den Bereichen der öffentlichen Gesundheit und der persönlichen Gesundheitsversorgung
+  8. Zentrale Führung, Finanzierung und Qualitätssicherung im Bereich der öffentlichen Gesundheit
+  9. Kernkommunikation in Bezug auf öffentliche Gesundheit
+  10. Gesundheitsforschung
+
+
+  http://www.aaphps.org/public-health-resources.html
