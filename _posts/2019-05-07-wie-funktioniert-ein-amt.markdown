@@ -10,7 +10,7 @@ autor:
 # Gesundheitsämter in Hamburg
 * Es gibt ein federführendes Gesundheitsamt.
   - Bindeglied zur Politik
-  - Das Federführungsprinzip wurde 2007 eingeführt zur Stärkung der kommunalen Gesundheitsämter
+  - Das Federführungsprinzip wurde 2007 eingeführt zur Stärkung der kommunalen Gesundheits und Förderungsmanagement
   - Das federführende Amt bekommt dafür Stellen, aber keine besondere Macht
 * Es gibt einen kommunalen Dienst
   - Dieser macht Dinge wie Welt-Diabetes-Tag u.ä.
@@ -32,3 +32,45 @@ autor:
   - Einarbeitungskonzept
   - Patensystem
 * Paula-Go ist die einzige revisionssichere Software
+* Organigramme der Ministerien und Gesundheitsämter
+* Es gibt staatliche (z.B. BW und BY) und kommunale Gesundheitsämter
+* Es gibt Dienstrechtsvorgesetzte und Fachvorgesetzte
+* [Überlastungsanzeige](https://de.wikipedia.org/wiki/%C3%9Cberlastungsanzeige)
+
+# Personalmanagement
+* _Öffentliche Verwaltung muss den Anforderungen ihrer politschen Auftragbeger und den Kundinnen folgen_
+* Bei Personalnachbesetzung immer gesetzliche Anforderungen in die Begründung schreiben
+* Personal ist die wichtigste Ressource
+* Personalentwicklungsinstrumente
+  * Mitarbeiter-Vorgesetzten-Gespräche
+  * Einzelfallberatung
+  * Fortbildung
+
+# Beurteilung
+* Beurteilung sind das Kernstück eines ganzheitlichen Personalmanagements
+* Es gibt VAK Fortbildungen zur Beurteilung [Beurteilungswesen - Kompaktseminar](https://www.berlin.de/vak/evak/)
+* Anlassbeurteilung
+* Beurteilungsvorlage in Hamburg
+  - Denken und Urteilen
+  - Arbeitsweise
+  - Fachliche Kompetenz
+  - Umgang mit Anderen / Kommunikation
+  - Führungsanforderungen
+  - Potential
+* Personen mit einer Schwerbehinderung müssen immer eingeladen werden
+
+# Mitarbeiter-Vorgesetzten Gespräch
+* Empfehlung: Gespräch in einer informellen Umgebung
+* Empfehlung: Seien Sie ehrlich
+
+# Dienstweg
+* Dienstweg ist einzuhalten
+* Empfehlung: Dienstweg immer einhalten
+
+# Instrument des Parlaments
+* [Kleine Anfrage](https://de.wikipedia.org/wiki/Kleine_Anfrage)
+* [Große Anfrage](https://de.wikipedia.org/wiki/Gro%C3%9Fe_Anfrage)
+* [Parlamentarischer Untersuchungsausschuss](https://de.wikipedia.org/wiki/Untersuchungsausschuss)
+
+# Rechte und Pflichten
+* Regelmäßig Arbeitszeit erfüllen, eventuell Gleitzeitrahmen, Kernarbeitszeiten erfüllen

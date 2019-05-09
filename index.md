@@ -4,3 +4,4 @@
 
 layout: home
 ---
+Diese Seite folgt dem [Curriculum der Akademie für öffentliches Gesundheitswesen](https://www.akademie-oegw.de/fileadmin/customers-data/PDFs/Curriculum_v2019-04-04.pdf)

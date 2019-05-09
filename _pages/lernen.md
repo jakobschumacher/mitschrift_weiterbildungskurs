@@ -26,3 +26,7 @@ permalink: /lernen/
 * [Budgetierung](https://www.youtube.com/watch?v=WsotzrejOOI)
 
 # Arbeitsrecht
+
+
+# Qualitätsmanagment
+* [DBB - Qualitätsmanagement in Behörden](https://www.dbb.de/fileadmin/pdfs/themen/qualitaetsmanagement.pdf)
