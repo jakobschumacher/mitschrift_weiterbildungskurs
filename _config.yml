@@ -43,7 +43,7 @@ defaults:
 
 # Gesetze Collections https://jekyllrb.com/docs/collections/
 collections:
-  gesetze:
+  - gesetze
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

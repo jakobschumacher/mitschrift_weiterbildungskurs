@@ -4,6 +4,7 @@ title:  "Prüfungsrelevante Themen (Modul 1a)"
 date:   2019-04-12 09:31:49 +0100
 categories: Modul-1a
 permalink: pruefungsrelevante-themen/
+autor: 1a1
 ---
 
 ## Ersten Woche

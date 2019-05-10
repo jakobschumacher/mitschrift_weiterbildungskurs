@@ -4,6 +4,7 @@ title:  "Europäischer Vergleich"
 date:   2019-01-17 08:29:49 +0100
 categories: Modul-1a
 permalink: europaeischer-vergleich/
+autor: 1a2
 ---
 
 ## Resourcen

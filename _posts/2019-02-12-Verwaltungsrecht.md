@@ -4,6 +4,7 @@ title:  "Grundzüge Verwaltungsrecht"
 date:   2019-02-12 08:00:00 +0100
 categories: Modul-1a
 permalink: verwaltungsrecht/
+id: 1a5
 ---
 
 ## Rechtsgrundsätze des Verwaltungshandelns

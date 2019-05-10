@@ -4,6 +4,7 @@ title:  "Haushaltsrecht"
 date:   2019-04-08 08:29:49 +0100
 categories: Modul-1a
 permalink: Haushaltsrecht/
+autor: 1a9
 ---
 
 # Rechtsgrundlagen

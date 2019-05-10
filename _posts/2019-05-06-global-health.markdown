@@ -4,6 +4,7 @@ title:  "Global health"
 date:   2019-05-06 09:31:49 +0100
 categories: Modul-1b
 permalink: global-health/
+autor: 1b1
 ---
 
 # Global Health

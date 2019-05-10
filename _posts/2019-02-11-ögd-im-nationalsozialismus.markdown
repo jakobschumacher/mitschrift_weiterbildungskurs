@@ -4,6 +4,7 @@ title:  "Das öffentliche Gesundheitswesen im Nationalsozialismus"
 date:   2019-02-11 08:29:49 +0100
 categories: Modul-1a
 permalink: der-oegd-im-nationalsozialismus/
+autor: 1a3
 ---
 ## Zum Nachlesen
 * [Webseite des Gesundheitsamtes Neuburg inklusive Verlinkung zu Übersichtsartikeln](https://www.neuburg-schrobenhausen.de/Das-Gesundheitsamt-im-Nationalsozialismus.o762.html)

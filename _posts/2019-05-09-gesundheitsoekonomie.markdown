@@ -59,6 +59,7 @@ autor: 1b5
   - Über negative Qalys wird diskutiert (z.B. Ich habe so starke Schmerzen, ich wäre lieber Tot)
   - Qalys gehören zu cost-utility
 * Das IQWiG berechnet QALYS. Es macht Nutzenbewertungen in Form von [HTA Berichten](https://www.iqwig.de/de/methoden/ergebnisse/hta-berichte.7459.html)
+* [HTA Berichte Sammlung beim DIMDI](https://www.dimdi.de/dynamic/de/weitere-fachdienste/health-technology-assessment/hta-berichte/)
 * 4-Felder-Tafel Kosten vs. Nutzen
 * [Efficacy vs Effectiveness](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3912314/)
   * Effektivität unter Studienbedingungen = __Efficacy__
@@ -73,3 +74,20 @@ autor: 1b5
 Gesundheitsökonomischen Studien
   * [Cost utility analysis](https://en.wikipedia.org/wiki/Cost%E2%80%93utility_analysis) gehört zu Cost-effectiveness analysis
   * [Cost–benefit analysis](https://en.wikipedia.org/wiki/Cost%E2%80%93benefit_analysis)
+  * Ökonomie hat einen utilitaristischen Aspekt, aber auch einen gerechtigkeitsaspekt
+
+
+# Ökonomie von Masernimpfung
+* Masernimpfung hat eine Effektivität von ca. 85%
+* Eine zweifache Masernimpfung
+* [Statement der WHO](http://www.euro.who.int/de/media-centre/sections/press-releases/2013/04/measles-costs)
+  - Menschliche Kosten (Argument für Menschen)
+  - Kostet weniger (Argument für die Ökonomen)
+  - Direkte Kosten 520 Euro
+  - Indirekte Kosten 301 Arbeitstage und 2854 Schultage
+  - __Return of investment (RoI)__ 5 Euro (für jeden eingesetzten Euro)
+
+# [Morality](Moral behavior in animals TED Talk)
+Pillars of marality
+* Reciprocity (Fairness)
+* Empathy (Compassion)

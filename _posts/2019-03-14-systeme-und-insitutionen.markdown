@@ -4,6 +4,7 @@ title:  "Systeme und Institutionen der gesundheitlichen Sicherung"
 date:   2019-03-12 15:00:00 +0100
 categories: Modul-1a
 permalink: systeme-und-institutionen/
+autor: 1a1
 ---
 
 ## Wichtige Behörden

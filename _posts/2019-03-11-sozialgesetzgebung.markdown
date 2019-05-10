@@ -4,7 +4,7 @@ title:  "Sozialpolitik"
 date:   2019-03-11 09:00:00 +0100
 categories: Modul-1a
 permalink: sozialpolitik/
-
+autor: 1a7
 ---
 ##  Historische Einführung
 * Beginn des Sozialstaates in Prinzip war 1883 (Krankenversicherung für Arbeiter)

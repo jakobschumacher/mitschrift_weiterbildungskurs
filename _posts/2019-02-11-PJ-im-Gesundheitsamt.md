@@ -4,6 +4,7 @@ title:  "PJ im Gesundheitsamt"
 date:   2019-02-11 14:00:00 +0100
 categories: Modul-1a
 permalink: pj-im-gesundheitsamt/
+autor: 1a4
 ---
 
 * Es gibt ca. 800 Fachärzte im ÖGD (davon 331 über 60 Jahre)

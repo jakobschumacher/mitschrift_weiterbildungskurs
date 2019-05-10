@@ -4,6 +4,7 @@ title:  "Haftungsfragen"
 date:   2019-04-09 08:29:49 +0100
 categories: Modul-1a
 permalink: haftungsfragen/
+autor: 
 ---
 ## Vertragliche Haftung
 Behandlungsfehlertypen
