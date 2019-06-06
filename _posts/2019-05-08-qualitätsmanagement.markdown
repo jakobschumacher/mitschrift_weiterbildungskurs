@@ -4,7 +4,7 @@ title:  "Qualitätsmanagement"
 date:   2019-05-08 08:00:00 +0100
 categories: Modul-1b
 permalink: qualitaetsmanagement/
-autor: [1b3, 1b4]
+autor: 1b3
 ---
 
 _Qualitätsmanagement ist eine Frage der Haltung_

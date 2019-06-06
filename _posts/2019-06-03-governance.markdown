@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Evidenzbasierte Governance"
-date:   2019-05-10 08:00:00 +0100
+date:   2019-06-03 08:00:00 +0100
 categories: Modul-1b
 permalink: evidenzbasierte-governance/
 autor: 1b8

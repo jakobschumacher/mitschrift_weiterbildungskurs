@@ -11,9 +11,26 @@ layout: default
         {{ page.date | date: date_format }}
       </time>
       {%- if page.autor -%}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{% for ref in site.data.referenten %}
+        <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{% for ref in site.data.referenten %}
           {% if page.autor == ref.id %}
-            {{ ref.name }}
+
+              {% if ref.email %}
+                • <a href="mailto:{{ ref.email }}">{{ ref.name }}</a>
+              {% endif %}
+
+              {% unless ref.email %}
+                • {{ ref.name }}
+              {% endunless %}
+
+              {% if ref.organisation %}
+                • {{ ref.organisation }}
+              {% endif %}
+
+
+              {% if ref.url %}
+                • <a href="{{ ref.url }}">Webseite</a>
+              {% endif %}
+
           {% endif %}
         {% endfor %}</span></span>
       {%- endif -%}</p>
@@ -24,8 +41,9 @@ layout: default
   </div>
 
   {% if page.comments %}
+  <hr><br>
   <h2>Kommentare zum Artikel</h2>
-    {%- include disqus_comments.html -%}
+    {%- include utterances_comments.html -%}
   {%- endif -%}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
