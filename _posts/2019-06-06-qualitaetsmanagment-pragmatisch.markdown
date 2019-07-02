@@ -165,7 +165,22 @@ autor: 1b11
 ## Konzepte aus der Privatwirtschaft
 ## Erfahrung mit Kaizen (VW)
 ## Balance Score Card (BSC)
-## Metaphern der Organisationsentwicklung
+* Definition: Balanced Scorecard ist ein Konzept zur Messung, Dokumentation und Steuerung der Aktivitäten eines Unternehmens oder einer Organisation im Hinblick auf seine Vision und Strategie.
+![Balance Score Card](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Balanced_Scorecard.png/1024px-Balanced_Scorecard.png)
+*[Bildquelle: Benutzer Stern Wikipedia. Lizenz: CC BY-SA 3.0](https://de.wikipedia.org/wiki/Balanced_Scorecard#/media/File:Balanced_Scorecard.png)*
+
+
+* Prozessperspektive
+  - Regelungstiefe
+  - Schwerpunktsetzung
+* Mitarbeiterperspektive
+  - Änderungsordner
+  - Linkliste
+  - Kummerkasten
+  - Zukunftswerkstatt
+* Kundenperspektive
+* Finanzperspektive
+
 ## Prinzip der "fussy logic"
 ## Alpen-Methode
 
@@ -183,7 +198,6 @@ autor: 1b11
 6. Ausweitung auf alle Abteilungen
 7. Organisation des Verbesserungsprozesses selbst
 
-
 ## Fehlermanagement
 * Aktionsbündnis Patientensicherheit
 * [Zusammenfassung des Aktionsbündnisses](https://www.aps-ev.de/wp-content/uploads/2016/10/Aus_Fehlern_lernen_0.pdf)
@@ -192,14 +206,58 @@ autor: 1b11
   - Execution Failure (Routinefehler): 39%
   - Rule-based (Leitungsfehler): 27%
   - Knowledge-based: 34%
-
 * Börczök - Funktionale Sicherheit
-- Aktive Redundanz
-- Diversität
-- Bei Wichenstellung durch Menschen: Einfach übersichtliche Checklisten
-- Proof-Test zur Erkennung von Alternativen
+  - Aktive Redundanz
+  - Diversität
+  - Bei Wichenstellung durch Menschen: Einfach übersichtliche Checklisten
+  - Proof-Test zur Erkennung von Alternativen
+
+## Organisationsentwicklung
+* Einteilung der Organisation
+  1. Organisation als Maschine
+    - Z.B. Schuleingangsuntersuchung
+    - Verwendung einer Checkliste
+    - Ziel: Auswertbare Daten
+    - Überregionale Standards
+  2. Organisation als Gehirn
+    - Z.B. Trinkwasserstörung
+    - Verwendung eines Werkzeugkastens
+  3. Organisation als Arena
+    - Z.B. Kontakt mit Politkern
+
+# Betriebsbuch
+## Vorteile
+* Bestimmung der Regelungstiefe
+* Transparenz z.B. bei Problemfällen
+* Vereinheitlichung der Abläufe/Delegation
+* Verbesserung der Qualität unter Berücksichtigung eigener Ressourcen
+* Reduzierung von Fehlern
+* Zeitersparnis
+
+## Nachteile des Betriebsbuches
+* Personalenge
+* Erfolg sehr stark von der Motivation der Mitarbeiter abhängig
+* Gefahr der Überregulierung
+* Verzicht auf die Außenansicht und die Fremdwahrnehmung
+* Zunehmender Zeitaufwand
+
+## Interne Wirksamkeitsindikatioren
+* Inhalt des Änderungsordner
+* Meinung der Mitarbeiter
+* Keine fachlich begründbaren Beschwerden
+* Zeitersparnis bei Abläufen
+
+* Reifegrad des QM-Managements von Jussli-Melchers Das Gesundheitswesen 2018
+  - Maßnahmen der QS umgesetzt
+  - Beschwerdemanagement eingeführt
+  - Prozesse beschriben
+  - CIRS genutzt
+  - Zertifikat vorhanden
 
 # Ressourcen
 * [Ärztliches Qualitätsmanagement 200 Stunden Kurs der Ärztekammer](https://www.aerztekammer-berlin.de/10arzt/25_Aerztl_Fb/12_Fortbildungen_AEKB/04_Qualitaetssicherung_Qualitaetsmangement/Qualitaetsmanagement/index.html)
 * [Qualitätsmanagement im Gesundheitsamt der KGST](https://www.kgst.de/dokumentdetails?path=/documents/20181/190151/20130604A0014.pdf/3d8ad1d9-76de-4a52-acb6-dfa28d449488)
 * [Handbuch Gesundheit und Integration](https://www.medbox.org/gesundheit-und-integration/download.pdf)
+* [Niedersachsen Hygiene](https://www.nlga.niedersachsen.de/startseite/infektionsschutz/infektionshygienische_ueberwachung_gemaess_23_ifsg/ag_arbeitshilfen/ag-krankenhaushygiene---arbeitshilfen-156816.html)
+* [Das Betriebsbuch des Gesundheitsamtes Stade](http://www.gqmg.de/Dokumente/jahrestagung_2008/Angewandtes_Qualitaetsmanagement/Pallasch_Gesundheitsamt.pdf)
+* [Handbuch des Sozialpsychiatrischen Dienstes Saalekreis](https://www.saalekreis.de/de/datei/download/id/250106,1002/handbuch_des_sozialpsychiatrischen_dienstes_saalekreis_2015.pdf)

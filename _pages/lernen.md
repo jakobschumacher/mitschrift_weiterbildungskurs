@@ -19,8 +19,10 @@ permalink: /lernen/
 # EU und Europa
 * [EU-Internetseite: Was machen die EU im Bereich Gesundheit](https://europa.eu/european-union/topics/health_de)
 
-# Hygieneüberwachung NRW
+# Hygieneüberwachung
 * [Hygieneüberwachung NRW](https://www.lzg.nrw.de/service/download/pub_krkhs/hygieneueberwachung_krhs/index.html)
+* [Hygieneüberwachung Niedersachsen](https://www.nlga.niedersachsen.de/startseite/infektionsschutz/infektionshygienische_ueberwachung_gemaess_23_ifsg/ag_arbeitshilfen/ag-krankenhaushygiene---arbeitshilfen-156816.html)
+* [Hygieneüberwachung Bayern](https://www.lgl.bayern.de/gesundheit/hygiene/index.htm)
 
 # Haushalt
 * [Budgetierung](https://www.youtube.com/watch?v=WsotzrejOOI)
