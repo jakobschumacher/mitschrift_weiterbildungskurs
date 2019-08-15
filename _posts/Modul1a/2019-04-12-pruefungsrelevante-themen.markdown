@@ -31,7 +31,7 @@ autor: 1a1
 
 ## Dritte Woche
 * Zur Thematik Sozialgesetzbücher wird man vermutlich gefragt werden, wenn die Prüfer aus dem Bereich Sozialpsychiatrie oder Beratungsstellen für Behinderte kommt
-* Die Aufgaben und Hintergründe der [Behörden im Gesundheitsbereich]({{ site.baseurl }}{%  post_url 2019-03-14-systeme-und-insitutionen %}) sind sehr prüfungsrelevant
+* Die Aufgaben und Hintergründe der Behörden im Gesundheitsbereich sind sehr prüfungsrelevant
 * Meldewesen ist auf jeden Fall prüfungsrelevant (kommt aber noch in den anderen Modulen)
 
 ## Vierte Woche
