@@ -48,23 +48,89 @@ Neue Aufgaben
 |  **Nr.** | **Aufgabe / Tätigkeit** | **Bemerkungen** | **Häufigkeit in 2019** |
 | :--- | :--- | :--- | :--- |
 |  **1** | **Hygienebegehung** | IfSG §23, GDG-B §13 | 300 |
-|  **** | Planung | Welche Einrichtung muss begangen werden |  |
-|  **** | Inhaltliche Vorbereitung | Alte Protokolle anschauen |  |
-|  **** | Ressourcenplanung | Welches Material, Protokoll ausdrucken |  |
-|  **** | Logistikplanung | Fahrt klären |  |
-|  **** | Durchführung |  |  |
-|  **** | Ges-Tabelle updaten |  |  |
-|  **** | Begehungsbericht erstellen |  |  |
-|  **** | Begehungsbericht zu Zählung |  |  |
-|  **** | OWI-Verfahren einleiten (ggf.) |  |  |
-|  **** | Wiedervorlage zur Kontrolle erstellen |  |  |
-|  **** | Kontrolle |  |  |
-|   |  |  |  |
-|  **2** | **Hygienebegehung mit Arzt** |  | 20 |
+|  **11** | Planung | Welche Einrichtung muss begangen werden |  |
+|  **12** | Inhaltliche Vorbereitung | Alte Protokolle anschauen |  |
+|  **13** | Ressourcenplanung | Welches Material, Protokoll ausdrucken |  |
+|  **14** | Logistikplanung | Fahrt klären |  |
+|  **15** | Durchführung |  |  |
+|  **16** | Ges-Tabelle updaten |  |  |
+|  **17** | Begehungsbericht erstellen |  |  |
+|  **18** | Begehungsbericht zu Zählung |  |  |
+|  **19** | OWI-Verfahren einleiten (ggf.) |  |  |
+|  **20** | Wiedervorlage zur Kontrolle erstellen |  |  |
+|  **21** | Kontrolle |  |  |
 
-# Aufgabenstrukturierung als Grundlage der PBE
+# Erhebung der Arbeitsmengen und Zeiten
+* Analytische Berechnungsverfahren
+  - Selbstaufschreibung (Bei hoch repetitiven Aufgaben)
+  - Laufzettelverfahren (Wenn mehrere Personen/Organisationen beteiligt sind)
+  - Multimoment-aufnahme
+  - Zeitaufnahme
+* Analytisches Schätzverfahren
+  - Analytisches Schätzverfahren (Gruppenschätzung)
+    - Aufgabe
+    - Häufigkeit
+    - Mengentreiber
+    - Multiplikator (Mehr wenn mehrere Personen, weniger wenn seltenes Auftreten)
+    - Min Schätzung
+    - Mittelwert Schätzung
+    - Max Schätzung
+    - Mittlere Bearbeitungszeit 
+      - PERT-Methode: 1/6 von min + 1/6 von max + 4/6 von norm
+* Arbeitsplatzmethode
+* Fortschreibungsverfahren
+* Schlüsselzahlverfahren
 
+<div class="mermaid">
+graph TD;
+a[Aufgaben]
+b[Grundzeit <br> je Aufgabe]
+c[Verteilzeiten]
+a-->b
+</div>
 
+# Verteilzeiten
+Verteilzeiten sind alle während der Arbeitszeit anfallenden Zeiten, die nicht unmittelbar zur Erfüllung der konkret übertragenen Aufgaben dienen.
+* Sachliche Verteilzeiten
+  - Besprechungen und Rücksprachen
+  - Allgemeine Rüstzeiten (z.B. Computer hochfahren)
+  - Aufgabenbedingte Wartezeiten (z.B. Klient zu spät)
+  - Lesen allgemeiner Rundscheiben
+  - Sonstige, nur gelegentlich vorkommende Tätigkeiten
+* Persönliche Verteilzeit
+  - Besprechungen und Rücksprachen in persönlichen Angelegenheit
+  - Persönliche Verrichtungen
+  - Erholungs- und Entspannungszeiten
+
+# Jahresarbeitszeit einer Normalarbeitskraft
+Die Arbeitszeit einer Normalarbeitskraft kennzeichnet die normalen zeitlichen Verfügbarkeit eines Mitarbeiters in einem jahr unter Berücksichtigung der regelämßigen wöchtnelichen Arbeitszeit
+
+<div class="mermaid">
+graph TD;
+a[365 Tage]
+b[104 Tage Wochenende]
+c[10 Feiertage]
+d[33 Urlaubstage]
+e[15 Krankheitstage]
+f[2 Fort- und Weiterbildungstage]
+g[205 Gesamttage]
+a-->b
+b-->c
+c-->d
+d-->e
+e-->f
+f-->g
+
+* Üblicher Wert: 39600 Minuten
+* Quelle für Krankheitstage: [Bericht der KGST](https://www.kgst.de/krankentage-statistik)
+
+# Berechnung des Personalbedarfs
+Arbeitszeitbedarf = Grundzeit * Fallzahl
+Personalbedarf = Arbeitszeitbedarf/Arbeitszeit einer Normalarbeitskraft
+
+# Rahmenparameter der Personalbedarfsermittlung
+* Führungsstellenanteil ist üblicherweise 1:10-1:30 
+* Der Führungsanteil ist üblicherweise auf das ganze Amt zu berechnen, d.h. die Leitung und der Stab bekommt dadurch auch Stellenanteile ab. 
 
 
 
