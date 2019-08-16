@@ -87,7 +87,28 @@ Welche Fragen sollte man sich bei seinem Orgaingramm stellen?
 * Gibt es für jede Führungskraft eine Führungsperson
 
 # Aufgabenanalyse/-kritik
+* Stetiger Aufgabenzuwachs, Änderung der gesetzlichen Handlungsgrundlage, Veränderungen gesellschaftlicher und sozialer Bedingungen, zunehmende fachliche Spezialisierung, Verfügbare Personalkapazitäten stagnieren/werden abgebaut
+
+Lösungsmöglichkeiten
+1. Prioritäten bewusst setzen
+2. Arbeitsbereich aktiv mitgestalten
+3. Rechtssicherheit stärken
+4. Belastbare Argumentationsgrundlagen schaffen
+5. Freiräume finden
+
+Aufgabenwahrnehmung verändern mit möglichen Schwachstellen
+1. Die Aufgaben werden nicht kritisch hinterfragt - neue Aufgaben kommen immer hinzu - keine entfällt
+2. Der Standard der Aufgabenwahrnehmung wird als gegeben und nicht beeinflussbar angesehen
+3. Möglichkeiten, die Aufgabenwahrnehmung durch Andere erbringen zu lassen, werden nicht geprüft
+4. Aufgaben werden in anderen Organisationseinheiten __auch__ bearbeitet, es gibt zu wenig Abstimmung zwischen den Beteiligten
+
+Prüfraster zur Aufgabenkritik
+* Wichtig ist es sich 100% der Aufgaben anzuschauen
+* Erster Schritt: Einteilung in pflichtig, betriebsnotwendig, freiwillig
+* Zweiter Schritt: Zu welchem Grad sollen die Aufgaben erfüllt werden, kann sie ganz entfallen
+* Dritter Schritt: Kann die Aufgabe outgesourct/ingesourct werden
+* Vierter Schritt: Interne Optimierung
+
+[Handbuch für Organisationsunterschungen und Personalbedarfsermittlung](https://www.orghandbuch.de/OHB/DE/ohb_pdf.pdf?__blob=publicationFile&v=28)
 
 # Ablaufanalyse (Prozesse)
-
-# Personalbedarfsbemessung
