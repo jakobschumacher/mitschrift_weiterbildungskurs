@@ -113,19 +113,32 @@ Message-->Bevölkerung
 
 ### Gruppenaktivität Anwendung des neuen Kommunikationstools
 
-| Aktivität | Unsere Impfkampagne |
-| --- | --- |
-|  Sammeln | Daten vom KJGD,<br/>U-Heft,<br/>Fokusgruppenbefragung |
-|  Bewerten | Visualisierung nach Zeit, Ort, Person |
-|  Teilen | Einrichtungen, <br/>Ärzte,<br/>Fokusgruppen,<br/>Arbeitsgruppe |
-|  Aktivitäten | Twitter-Account,<br/>Flyer,<br/>Webseite,<br/>Presse,<br/>Amtsblatt,<br/>Aushang Rathaus,<br/>E-Mail Serienbrief,<br/>Zielgruppen,<br/>Poster |
-|  Kernbotschaften | Zielgruppenspezifisch,<br/>Kanalspezifisch |
-|  Strategie | Vertrauensbildende Maßnahmen,<br/>Schulterschluss mit Multiplikatoren, <br/>Sichtbarkeit vor Ort |
-|  Lokal | Impfsprechstunden sammeln,<br/>Eigenes Impfbudget erhöhen, <br/>Bereitschaftsdienst |
-
-
-
+|  Kategorie | Aktivität | Unsere Impfkampagne |
+| --- | --- | --- |
+|  Informationen | Sammeln | Daten vom KJGD,<br/>U-Heft,<br/>Fokusgruppenbefragung |
+|   | Bewerten | Visualisierung nach Zeit, Ort, Person |
+|   | Teilen | Einrichtungen, <br/>Ärzte,<br/>Fokusgruppen,<br/>Arbeitsgruppe |
+|  Kommunikation | Aktivitäten | Twitter-Account,<br/>Flyer,<br/>Webseite,<br/>Presse,<br/>Amtsblatt,<br/>Aushang Rathaus,<br/>E-Mail Serienbrief,<br/>Zielgruppen,<br/>Poster |
+|   | Kernbotschaften | Zielgruppenspezifisch,<br/>Kanalspezifisch |
+|   | Strategie | Vertrauensbildende Maßnahmen,<br/>Schulterschluss mit Multiplikatoren, <br/>Sichtbarkeit vor Ort |
+|  Koordination | Lokal | Impfsprechstunden sammeln,<br/>Eigenes Impfbudget erhöhen, <br/>Bereitschaftsdienst |
+|   | National |  |
+|   | International |  |
+Sprechakttheorie
 ## Prinzipien der Risikokommunikation
+* Erstes Prinzip: Transparenz herstellen
+  - Beispiel Hochsicherheitslabor Marburg (Großes rotes Gebäude, Tag der offenen Tür)
+* Zweites Prinzip: Proaktive Kommunikation
+  - Z.B. etablierte Medienpartnerschaften im Vorfeld herstellen
+* Drittes Prinzip: Partizipative Kommunikation
 
+## Persönliche Take-Homes
+* ÖGD-Berlin Übung
+* Schnell-Fokus-Gruppe
+* Kontakt mit Medienvertretern suchen
+* Das Gesundheitsamtsgebäude kommuniziert mit
+* Netzwerkarbeit ist sinnvoll
+* Bestätigung Risikokommunikation in Deutschland ist in keinem guten Zustand
+* Es gibt ein interessantes Risikokommunikationsmodell 
+* Sprechakttheorie
 
-## Risikokommunikation vs. Krisenkommunikation
