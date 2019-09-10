@@ -113,8 +113,9 @@ Message-->Bevölkerung
 
 ### Gruppenaktivität Anwendung des neuen Kommunikationstools
 
-|  Sammeln | Daten vom KJGD,<br/>U-Heft,<br/>Fokusgruppenbefragung |
+| Aktivität | Unsere Impfkampagne |
 | --- | --- |
+|  Sammeln | Daten vom KJGD,<br/>U-Heft,<br/>Fokusgruppenbefragung |
 |  Bewerten | Visualisierung nach Zeit, Ort, Person |
 |  Teilen | Einrichtungen, <br/>Ärzte,<br/>Fokusgruppen,<br/>Arbeitsgruppe |
 |  Aktivitäten | Twitter-Account,<br/>Flyer,<br/>Webseite,<br/>Presse,<br/>Amtsblatt,<br/>Aushang Rathaus,<br/>E-Mail Serienbrief,<br/>Zielgruppen,<br/>Poster |
