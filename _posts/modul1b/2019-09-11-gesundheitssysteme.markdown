@@ -46,8 +46,38 @@ Stewardship-->Creatin
 * Die Definition von Grenzen beeinflusst wie das Gesundheitssystem wahrgenommen werden
 * Diese Definition beeinflusst sehr stark, wie das Gesundheitssystem bewertet werden kann. 
 
-### Gruppenarbeit
-[Präsentation Gruppe 5](https://docs.google.com/presentation/d/1aL7s55OMloo9wEYDskMEKDdo7yWKfIl9gkby77rvuxQ/edit?usp=sharing)
+### Gruppenarbeit: Ziele von Gesundheitssystemen
+* WHO Vorteile von 
+  * Enge Definition
+    - Advantages
+      - easier to hold relative stakeholders to account
+      - Identifies areas in which relative stakeholders have the capacity to make changes
+    - Disadvantages
+      - Most factors influencing health are not included in the framework
+      - It may be difficult to disentangle the effect health care has on outcomes from other determinants
+  * Breite Definition
+    - Advantages
+      - Provides a more realistic view
+      Idinetifies interactions
+    - Disadvantages
+      - Many determinants are difficult
+
+
+* WHO Einteilung
+  * Health (disability-adjusted life expectancy) 50%
+    - davon 25% für den Mittelwert und 25% für Verteilung
+  * Responsiveness 25%
+    - Davon 12,5% für den Mittelwert und 12,5% für die Verteilung
+  * Fair financial contribution 25%
 
 
 ## Grenzen und Ziele
+* Es gibt ein Template for authors 
+* [Deutschland Bericht](http://www.euro.who.int/__data/assets/pdf_file/0008/255932/HiT-Germany.pdf)
+* [UK Bericht](http://www.euro.who.int/__data/assets/pdf_file/0004/135148/e94836.pdf)
+* Es gibt ähnliche Obersvatories in anderen Regionen der Welt 
+
+### Von uns gefundene Ziele des Öffentlichen Gesundheitsdienstes?
+* Vorbeugung, Früherkennung ein Verhinderung der Weiterverbreitung von Infektionskrankheiten
+
+### Wie sollten die Ziele gewichtet werden?

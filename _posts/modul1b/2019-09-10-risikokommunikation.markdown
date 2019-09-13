@@ -124,7 +124,9 @@ Message-->Bevölkerung
 |  Koordination | Lokal | Impfsprechstunden sammeln,<br/>Eigenes Impfbudget erhöhen, <br/>Bereitschaftsdienst |
 |   | National |  |
 |   | International |  |
-Sprechakttheorie
+
+
+
 ## Prinzipien der Risikokommunikation
 * Erstes Prinzip: Transparenz herstellen
   - Beispiel Hochsicherheitslabor Marburg (Großes rotes Gebäude, Tag der offenen Tür)
