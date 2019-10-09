@@ -15,7 +15,17 @@
         <a href="https://github.com/jakobschumacher/mitschrift_weiterbildungskurs">Erstellung auf Github</a>
       </div>
       <div class="footer-col footer-col-6">
-      {{ site.description }}
+      {{ site.description | markdownify}} 
+      
+      {% for moduloverview in site.static_files %}
+        {% if moduloverview.path contains 'assets/pdf/modul' %}
+          <a href="{{ moduloverview.path | relative_url }}" alt="">
+            Modulüberblick: {{ moduloverview.basename }}
+          </a><br>
+        {% endif %}
+      {% endfor %}
+
+      
       </div>
     </div>
 
