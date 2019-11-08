@@ -90,7 +90,7 @@ autor: 201
 - [www.regionalstatistik.de](https://www.regionalstatistik.de/genesis/online/)
 - Indikatorensatz für GBE
 - [Wegweiser Kommune der Betretelsmannstiftung (privat)](https://www.wegweiser-kommune.de/)
-
+* [ZI Zentralinstitut der kassenärztlichen Vereinigung](https://www.zi.de/)
 
 # Indikatorensatz
 - 1991 Auftrag der GMK an die AOLG einen Indikatorensatz
