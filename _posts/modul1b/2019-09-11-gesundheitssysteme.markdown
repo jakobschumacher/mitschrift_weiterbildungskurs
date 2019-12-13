@@ -5,6 +5,8 @@ date:   2019-09-11 08:00:00 +0100
 categories: Modul-1b
 permalink: gesundheitssysteme/
 autor: 1b18
+vortrag:
+  - 091119Quentin_Gesundheitssysteme.pdf
 ---
 
 ## Gesundheitssysteme: Zielen, Funktionen, Akteure

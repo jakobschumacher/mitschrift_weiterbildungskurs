@@ -5,6 +5,9 @@ date:   2019-01-17 08:29:49 +0100
 categories: Modul-1a
 permalink: europaeischer-vergleich/
 autor: 1a2
+vortrag: 
+  - 011719Jakubowski_Gesundheitssystemvergleich_Europa.pdf
+  - 011719Jakubowski_Organisation _OEGD_Systeme_Europa.pdf
 ---
 
 ## Resourcen

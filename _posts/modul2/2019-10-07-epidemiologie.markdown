@@ -5,6 +5,8 @@ date:   2019-10-07 12:00:00 +0100
 categories: Modul-2
 permalink: epidemiologie/
 autor: 201
+vortrag:
+  - 100719Starke_Epidemiologie_1_web.pdf
 ---
 
 * Epidemiologie umfasst mehr als nur Infektionskrankheiten

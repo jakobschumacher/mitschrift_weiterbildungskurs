@@ -5,6 +5,8 @@ date:   2019-08-15 08:00:00 +0100
 categories: Modul-1b
 permalink: personalbedarfsbemessung/
 autor: 1b15
+vortrag:
+  - 081519Kuns_Oguz_Methoden_Personalbemessung.pdf
 ---
 
 # Definition Personalbedarfsbemessung

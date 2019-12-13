@@ -5,6 +5,9 @@ date:   2019-08-13 08:00:00 +0100
 categories: Modul-1b
 permalink: gewaltbereite-klienten/
 autor: 1b13
+vortrag:
+  - 081319_Erfassung_Gewalt_gegen_Mitarbeiter_in_Behoerden.pdf
+  - 081319Checkliste_Risikobewertung_SPD_APP_Tinnemann_Schmelzer.pdf
 ---
 
 # Checkliste: Woran erkenne ich, dass es gefährlich wird

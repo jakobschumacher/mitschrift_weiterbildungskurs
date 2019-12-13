@@ -5,6 +5,8 @@ date:   2019-05-07 09:31:49 +0100
 categories: Modul-1b
 permalink: wie-funktioniert-ein-amt/
 autor: 1b2
+vortrag:
+  - 050719Henning_Praesentation_Personalentwicklung_Fuehrung_Rechte und Pflichten.pdf
 ---
 
 # Gesundheitsämter in Hamburg

@@ -5,6 +5,10 @@ date:   2019-04-11 08:29:49 +0100
 categories: Modul-1a
 permalink: arbeitsrecht/
 autor: 1a6
+vortrag: 
+  - 041119Fischer_ Arbeits_Dienst_Tarifrecht_aktualisiert.pdf
+  - 041119Fischer_Arbeits_Dienst_Tarifrecht_finale_Version.pdf
+  - 041119Fischer_Arbeitsrecht_Dienstrecht_Tarifrecht.pdf
 ---
 
 ## Arbeitsrecht

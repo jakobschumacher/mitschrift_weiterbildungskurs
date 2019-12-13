@@ -5,6 +5,8 @@ date:   2019-02-12 08:00:00 +0100
 categories: Modul-1a
 permalink: praxis-des-verwaltungsrechts/
 autor: 1a6
+vortrag:
+  - 021419Fischer_Verwaltungstechnik.pdf
 ---
 
 ## Grundsätze des Verwaltungsverfahrens

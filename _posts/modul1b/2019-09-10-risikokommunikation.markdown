@@ -5,6 +5,8 @@ date:   2019-09-10 08:00:00 +0100
 categories: Modul-1b
 permalink: risikokommunikation/
 autor: 1b17
+vortrag:
+  - 091019Dickmann_Risikokommunikation.pdf
 ---
 
 ## Einleitung

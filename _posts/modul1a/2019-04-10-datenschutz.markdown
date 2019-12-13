@@ -5,6 +5,8 @@ date:   2019-04-10 08:29:49 +0100
 categories: Modul-1a
 permalink: datenschutz/
 autor: 1a10
+vortrag:
+  - 041019Weihe_Patientendatenschutz.pdf
 ---
 
 * Datenschutz ist kein Tatenschutz

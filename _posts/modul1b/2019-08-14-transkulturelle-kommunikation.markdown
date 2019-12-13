@@ -5,6 +5,8 @@ date:   2019-08-14 08:00:00 +0100
 categories: Modul-1b
 permalink: transkulturelle-kommunikation/
 autor: 1b14
+vortrag:
+  - 081419Stoeckigt_Transkulturelle_Kommunikation.pdf
 ---
 
 # Namensfinder

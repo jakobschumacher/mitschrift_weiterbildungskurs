@@ -4,7 +4,10 @@ title:  "Gesundheitsorientierte Planungsinstrumente und Einsatzfelder"
 date:   2019-12-10 08:00:00 +0100
 categories: Modul-2
 permalink: gesundheitsorientierte-planungsfelder/
-autor: 212
+autor: 215
+vortrag:
+  - 121019Classen_Gesundheitsfolgenabschaetzung und Instrumente.pdf
+  - 121019Classen_Gesundheitsorientierte Planungsinstrumente.pdf
 ---
 
 # Welche Faktoren beeinflussen unsere Gesundheit und Lebensqualität

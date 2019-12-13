@@ -5,6 +5,10 @@ date:   2019-11-03 08:00:00 +0100
 categories: Modul-2
 permalink: gesundheitsdaten-kommunizieren/
 autor: 204
+vortrag:
+  - 110419Naundorf_Berichte_gut_schlecht.pdf
+  - 110419Naundorf_Gesundheitsdaten_kommunizieren.pdf
+  - 110419Naundorf_Oeffentlichkeitsarbeit_Literatur.pdf
 ---
 
 # Marketing/Public-Relations

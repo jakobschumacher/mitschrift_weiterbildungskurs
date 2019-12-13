@@ -5,6 +5,8 @@ date:   2019-03-11 09:00:00 +0100
 categories: Modul-1a
 permalink: sozialpolitik/
 autor: 1a7
+vortrag:
+  - 031119Romrod_Sozialrecht.pdf
 ---
 ##  Historische Einführung
 * Beginn des Sozialstaates in Prinzip war 1883 (Krankenversicherung für Arbeiter)

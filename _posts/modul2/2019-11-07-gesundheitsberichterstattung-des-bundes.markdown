@@ -5,6 +5,8 @@ date:   2019-11-08 08:00:00 +0100
 categories: Modul-2
 permalink: gesundheitsberichterstattung-des-bundes/
 autor: 209
+vortrag: 
+  - 110819Pruetz_GBE_Bund.pdf
 ---
 
 

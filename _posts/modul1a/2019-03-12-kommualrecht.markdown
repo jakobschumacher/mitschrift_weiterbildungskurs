@@ -5,6 +5,8 @@ date:   2019-03-12 15:00:00 +0100
 categories: Modul-1a
 permalink: kommunalrecht/
 autor: 1a5
+vortrag: 
+  - 031219Koch_Kommunalrecht.pdf
 ---
 # Unterteilung der Verwaltung
 - Bund: unmittelbare Staatsverwaltung

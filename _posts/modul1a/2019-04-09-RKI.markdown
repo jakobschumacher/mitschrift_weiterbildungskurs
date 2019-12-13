@@ -4,6 +4,8 @@ title:  "Das Robert Koch-Institut"
 date:   2019-04-09 08:29:49 +0100
 categories: Modul-1a
 permalink: rki/
+vortrag:
+  - 040919RKI_Vorstellung_Abt3__Mona_Askar.pdf
 ---
 
 ## Aufteilung des RKI

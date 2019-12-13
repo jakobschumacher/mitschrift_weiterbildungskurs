@@ -5,6 +5,10 @@ date:   2019-08-15 08:00:00 +0100
 categories: Modul-1b
 permalink: organisationsentwicklung/
 autor: 1b15
+vortrag:
+  - 081519Kuns_Oguz _Aufgabenstrukturierung_eigener Aufgabenbereich.docx
+  - 081519Kuns_Oguz_Aufgabenkatalog_Rohversion.xlsx
+  - 081519Kuns_Oguz_Organisationsentwicklung.pdf
 ---
 
 # Organisationsentwicklung

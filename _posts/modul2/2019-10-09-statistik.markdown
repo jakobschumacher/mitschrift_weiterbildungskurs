@@ -5,6 +5,9 @@ date:   2019-10-09 08:00:00 +0100
 categories: Modul-2
 permalink: statistik/
 autor: 202
+vortrag:
+  - 100919Arnold_Statistik1.pdf
+  - 100919Arnold_Statistik2.pdf
 ---
 
 * Statistik ist ein Werkzeug um Aussagen zu treffen

@@ -31,10 +31,22 @@ layout: default
                 • <a href="{{ ref.url }}">Webseite</a>
               {% endif %}
 
+              
           {% endif %}
         {% endfor %}</span></span>
       {%- endif -%}</p>
+      
+      <p class="post-meta">
+              {% for pdf in site.static_files %}
+                {% if page.vortrag contains pdf.name %}
+                  <a href="{{ pdf.path | relative_url }}"> {{pdf.basename}} </a><br>
+                {% endif %}  
+              {% endfor %}
+              </p>
+
   </header>
+  
+
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}

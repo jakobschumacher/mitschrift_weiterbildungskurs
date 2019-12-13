@@ -5,6 +5,8 @@ date:   2019-11-03 08:00:00 +0100
 categories: Modul-2
 permalink: gesundheitsberichterstattung/
 autor: 201
+vortrag:
+  - 2019-10-07-gesundheitsberichterstattung.markdown
 ---
 
 # Historie

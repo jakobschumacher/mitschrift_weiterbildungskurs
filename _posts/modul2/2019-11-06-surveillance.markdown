@@ -7,5 +7,7 @@ permalink: surveillance/
 autor: 205
 ---
 
+__nur selektives Mitschreiben__
+
 * Daten für Taten
 * Vorbeugen, erkennen, verhindern

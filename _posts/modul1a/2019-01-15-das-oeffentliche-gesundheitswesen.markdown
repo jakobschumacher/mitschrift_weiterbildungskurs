@@ -5,6 +5,8 @@ date:   2019-01-15 08:29:49 +0100
 categories: Modul-1a
 permalink: das-oeffentliche-gesundheitswesen/
 autor: 1a1
+vortrag: 
+  - 011519Teichert_Gesundheitswesen_Deutschland.pdf
 ---
 
 ## Definitionen

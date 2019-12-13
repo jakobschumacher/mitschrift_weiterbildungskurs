@@ -5,6 +5,9 @@ date:   2019-11-03 08:00:00 +0100
 categories: Modul-2
 permalink: ausbruchsmanagement/
 autor: 206
+vortrag:
+  - 110619RKI_Epikurs Ausbruch.pdf
+  - 110619RKI_Annex 2.pdf
 ---
 
 

@@ -5,6 +5,8 @@ date:   2019-10-11 08:00:00 +0100
 categories: Modul-2
 permalink: studientypen/
 autor: 202
+vortrag:
+  - 101019Arnold_Studientypen.pdf
 ---
 
 ## Schritte der Studienplanung

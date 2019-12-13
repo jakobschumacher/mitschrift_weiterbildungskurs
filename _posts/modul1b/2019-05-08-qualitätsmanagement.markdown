@@ -5,6 +5,9 @@ date:   2019-05-08 08:00:00 +0100
 categories: Modul-1b
 permalink: qualitaetsmanagement/
 autor: 1b3
+vortrag:
+  - 050819Schmitt_QM_ambulant.pdf
+  - 050819Schmitt_QEP_Manual.pdf
 ---
 
 _Qualitätsmanagement ist eine Frage der Haltung_

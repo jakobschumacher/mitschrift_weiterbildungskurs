@@ -5,6 +5,8 @@ date:   2019-11-03 11:00:00 +0100
 categories: Modul-2
 permalink: aolg-indikatorensatz/
 autor: 208
+vortrag:
+  - 110719Oberwoehrmann_AOLG_Indikatorensatz.pdf
 ---
 
 # Hintergrund

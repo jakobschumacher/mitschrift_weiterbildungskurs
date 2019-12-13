@@ -34,11 +34,14 @@ plugins:
   - jekyll-seo-tag
 
 defaults:
-    scope:
-      path: "" # an empty string here means all files in the project
-      type: "posts" # previously `post` in Jekyll 2.2.
+  - scope:
+      path: "assets/pdf/vortraege"
     values:
-      comments: "true"
+      vortrag: true
+
+
+
+defaults:
 
 # Gesetze Collections https://jekyllrb.com/docs/collections/
 collections:

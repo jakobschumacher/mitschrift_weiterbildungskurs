@@ -5,6 +5,8 @@ date:   2019-06-06 08:00:00 +0100
 categories: Modul-1b
 permalink: qualitaetsmanagement-pragmatisch/
 autor: 1b11
+vortrag:
+  - 060619Pallasch_QM_im_Amt_aktualisiert.pdf
 ---
 
 # Ziele des Vortrags

@@ -5,6 +5,8 @@ date:   2019-12-09 08:00:00 +0100
 categories: Modul-2
 permalink: gesundheitsgeographie/
 autor: 210
+vortrag:
+  - 120919_Thissen_Health Geography.pdf
 ---
 
 # Was ist gesundheitsgeographie

@@ -5,6 +5,12 @@ date:   2019-04-08 08:29:49 +0100
 categories: Modul-1a
 permalink: Haushaltsrecht/
 autor: 1a9
+vortrag:
+  - 040819Vogler_Berliner_haushaltsrecht_AVLHO_2018.pdf
+  - 040819Vogler_Bezirkshaushalt_neuk_lln_2018_19.pdf
+  - 040819Vogler_Grundlagen_Haushaltsrecht.pdf
+  - 040819Vogler_Produktblatt_Beispiel.pdf
+  - 040819Vogler_Sperrvermerk.pdf
 ---
 
 # Rechtsgrundlagen

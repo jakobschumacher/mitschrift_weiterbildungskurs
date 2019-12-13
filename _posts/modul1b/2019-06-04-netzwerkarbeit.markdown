@@ -5,6 +5,9 @@ date:   2019-06-04 08:00:00 +0100
 categories: Modul-1b
 permalink: netzwerkarbeit/
 autor: 1b9
+vortrag:
+  - 060419Starke_Projektmanagement.pdf
+  - 060419Starke_PSP.docx
 ---
 # Projekmanagement
 

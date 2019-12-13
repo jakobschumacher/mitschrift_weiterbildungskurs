@@ -4,7 +4,9 @@ title:  "Haftungsfragen"
 date:   2019-04-09 08:29:49 +0100
 categories: Modul-1a
 permalink: haftungsfragen/
-autor: 
+autor: 1a5
+vortrag:
+  - 040919Koch_Haftungsfragen.pdf
 ---
 ## Vertragliche Haftung
 Behandlungsfehlertypen

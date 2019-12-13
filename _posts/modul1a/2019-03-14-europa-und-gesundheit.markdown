@@ -5,6 +5,10 @@ date:   2019-03-12 15:00:00 +0100
 categories: Modul-1a
 permalink: europa-und-gesundheit/
 autor: 1a8
+vortrag:
+  - 031419Clemens_Praesentation1_Gesundheit2020.pdf
+  - 031419Clemens_Praesentation2_Gesundheit2020.pdf
+  - 031419Clemens_Artikel_Gesundheit2020.pdf
 ---
 
 # EU und Gesundheit
