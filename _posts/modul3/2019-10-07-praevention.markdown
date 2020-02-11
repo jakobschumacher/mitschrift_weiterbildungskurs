@@ -24,21 +24,21 @@ autor: 201
 
 # Präventionsidee "PrevBefBirth (Prevention before birth)"
 
-## Ziel
+### Ziel
 Verhinderung von Übergewicht bei Kindern. Kategorie: Gesund aufwachsen
 
-## Hintergrund
+### Hintergrund
 Übergewicht manifestiert sich zum Teil sehr früh in der Kindheit und ist dann kaum noch zu ändern. Die Ernährungsgewohnheit ist aber für Familien sehr schwierig zu ändern. Es wäre also sinnvoller vorher anzusetzen. Die Phase um die Geburt ist mit Lebensstiländerungen verbunden und die zukünftigen Eltern haben ein starkes Bedürfnis Dinge für das Kind "gut" zu machen. Diese Phase kann also genutzt werden.
 
-## Methode
+### Methode
 Gynäkologen empfehlen Schwangeren, die bereits vor der Schwangerschaft übergewichtig waren, eine 7 malige Ernährungsberatung, die dann durch das Gesundheitsamt durchgeführt wird. Im Gesundheitsamt werden zwei SMA angestellt. 
 
-## Indikator
+### Indikator
 BMI bei Einschulungsuntersuchung. 
 
-## Vergleichsgruppe
+### Vergleichsgruppe
 Das Gesundheitsamt lehnen per Zufallsprinzip die Hälfte der Anfragen ab. Die Kinder der abgelehnten Schwangeren werden dann als Vergleichsgruppe herangezogen. Ethisch ist dies wahrscheinlich schwierig, da es ja zu einer Ablehnung von Personen mit Veränderungswünschen kommt. Gegebenenfalls müsste man dann mit den Abbrecher vergleichen.
 
-## Kosten
+### Kosten
 Zwei SMA angestellt über 5 Jahre (70000*2*5 = 700 000)
 
