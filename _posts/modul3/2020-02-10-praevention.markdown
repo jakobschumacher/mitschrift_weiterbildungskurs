@@ -3,7 +3,7 @@ layout: post
 title:  "Prävention (Eigenarbeit)"
 date:   2020-02-10 08:00:00 +0100
 categories: Modul-3
-permalink: praevention/
+permalink: praevention-eigenarbeit/
 autor: 201
 ---
 
