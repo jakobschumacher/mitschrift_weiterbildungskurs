@@ -4,7 +4,7 @@ title:  "KJGD (Skript)"
 date:   2020-10-31 08:00:00 +0100
 categories: Selbststudium
 permalink: kjgd/
-autor:
+autor: Jakob Schumacher
 ---
 
 ## Was ist die Aufgabe des Gesundheitsamtes im Rahmen des Kinderschutzes?

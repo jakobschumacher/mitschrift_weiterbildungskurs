@@ -1,0 +1,66 @@
+---
+layout: post
+title:  "BfB (Skript)"
+date:   2020-11-01 09:00:00 +0100
+categories: Selbststudium
+permalink: bfb/
+autor: Jakob Schumacher
+---
+
+# Hauptinhalte des BfB
+1. Beratung (GDG)
+1. Begutachtung (SGB)
+
+# Berechtigte Personen
+* Chronische Erkrankungen und körperliche Beeinträchtigung
+* Behinderung oder davon bedroht
+* Menschen in hohem Alter
+* Krebserkrankungen
+* HIV
+* Sinnesbehinderung
+* Angehörige
+* Für bestimmte Inhalte müssen die Personen eine Unterstütungsleistung vom Staat bekommen.
+
+# Beratung und Verweishilfe (Beratungsprodukt)
+* Patientenverfügung
+* Vorsorgevollmacht
+* Selbsthilfegruppen
+* Konflikt- und Krisensituationen
+* Ernährungsberatung
+* Widerspruchsverfahren bei Schwerbehinderung (gutachterliche Stellungnahme)
+
+# Begutachtung (Produkt Stellungnahme zusammen mit dem SpDi)
+1. Eingliederungshilfe § 53
+1. Mehrbedarf für Ernährung und für Hygiene (Nicht abwendbare besondere regelmäßige Bedarfe)
+1. Hilfe zur Pflege
+
+## Eingliederungshilfe
+* Kommt meistens von Soz
+* Kann grundsätzlich von allen Personen gestellt werden
+* Die Einteilung erfolgt durch den § 53 und den § 54
+* Hilfebedarf wird im BfB durch die Sozialarbeiter ermittelt.
+
+## Mehrbedarfsanträge
+* Berechtigt sind Personen die Unterstützungsleistungen erhalten
+* Kommen zumeist durch Soz oder das Jobcenter  
+  - Mehrbedarfe für Ernährung
+  - Zum Beispiel Hygienemehrbedarf HIV-Infizierte
+  - Zum Beispiel eine Person mit Tracheostoma braucht mehr Kompressen
+* Dürfen nicht in die KLR mit einfließen
+
+# Schwerbehinderung
+* Körperliche, geistige oder seelische Behinderung die eine Teilhabe verhindert und länger als 6 Monate andauert. Gilt nicht für vorübergehende oder Alterserscheinungen
+* Wird eingeteilt in Grad der Behinderung
+* Anerkennung einer Schwerbehinderung erfolgt im Versorgungsamt in Berlin ist das das LAGeSo
+
+# BTHG und ICF
+* ICF ist nicht mehr Diagnosespezifiziert sondern Funktionsspezifiziert
+* ICF stammt letztendlich von der WHO und klassifiziert die Folgen von Krankheiten
+* Einteilung einerseits nach Körperfunktionen und Körperstrutkuren,  andererseits nach Aktivität und Teilhabe und zu guter Letzt nach Umweltfaktoren und personenbezogenen Faktoren
+* Biopsychosoziales Krankheitsmodell als Grundlage
+* Beispiel gebrochener Arm bei einem Halbseitengelähmten, wenn der gesunde Arm gebrochen ist ist es dramatisch, wenn der kranke Arm gebrochen ist weniger. Obwohl beide Personen die selbe Diagnose hätten.
+* Fähigkeiten (angeboren) und Fertigkeiten (erlernbar)
+* Eingliederungshilfe sollten durch die vier zentralen Ämtern in Berlin. Die Begutachtung würden dann durch Niedergelassene durchgeführt.
+
+# Literatur
+* [Deutscher Verein für öffentliche und private Fürsorge](https://www.deutscher-verein.de/de/)

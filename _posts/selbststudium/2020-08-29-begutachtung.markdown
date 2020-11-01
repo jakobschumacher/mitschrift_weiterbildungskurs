@@ -34,7 +34,7 @@ autor:
 
 ## Schwerbehindertenrecht
 * Grad der Behinderung
-  * Schwerbehindertenrecht
+* Schwerbehindertenrecht
 
 ## SGB V Krankenversicherung  
   * Kurgutachten
@@ -87,6 +87,14 @@ autor:
 * Einsichtsrecht des Begutachteten (Ausnahmen: Gericht, Subjektive Eindrücke)
 * Wahrung der Schweigepflicht
 
+# Inhalte eines Gutachtens
+1. Formalien
+1. Sachverhaltsdarstellung
+1. Gutachterliche Würdigung
+1. Ggf. Festlegung der Funktionsbeeinträchtigungen
+1. Beantwortung der vom Auftraggeber gestellten Fragen
+1. Rechtsverbindliche Unterschrift
+
 # Anforderung an den Gutachter
 * Begutachtung der Rechtsgrundlage
 * Unparteilichkeit und Unabhängigkeit
@@ -104,3 +112,8 @@ autor:
 * Duldungspflicht im Strafrecht
 * Dienstpflicht
 * Mitwirkungspflicht (nach § 60 ff SGB I)
+
+# Kriterien einer Begutachtung
+* [AWMF-Leitline Begutachtung](https://www.awmf.org/uploads/tx_szleitlinien/094-001l_S2k_Allgemeine_Grundlagen_der_medizinischen_Begutachtung_2019-04.pdf)
+* Kurs der Ärztekammer zur Begutachtung
+* Mit an Sicherheit grenzenden

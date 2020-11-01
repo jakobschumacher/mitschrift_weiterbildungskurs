@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "SpDi (Skript)"
+date:   2020-11-01 08:00:00 +0100
+categories: Selbststudium
+permalink: spdi/
+autor: Jakob Schumacher
+---
+
+# Was ist eine Krise
