@@ -1,0 +1,65 @@
+---
+layout: post
+title:  "KJGD (Skript)"
+date:   2020-10-31 08:00:00 +0100
+categories: Selbststudium
+permalink: kjgd/
+autor:
+---
+
+## Was ist die Aufgabe des Gesundheitsamtes im Rahmen des Kinderschutzes?
+Die Aufgabe der Gemeinschaft über die Erziehung zu wachen ergibt sich aus dem Grundgesetz. Genauer wird das im SGB8 konkretisiert. Die Grundsätze sind, dass die Leistungen primär durch freie Träger erfolgen soll, die Finanzierung kommunal sein soll, Subsidiarität) Die Jugendämter haben die Wächterverantwortung. Das Jugendamt kann in der Wächterfunktion dafür Sorge tragen, dass der KJGD regelmäßig besucht wird. Miteinschätzung ob eine Kindeswohlgefährdung vorliegt. Dies erfolgt in Zusammenarbeit mit den Kinderschutzambulanzen (z.B. am Charite)
+
+Beispiel:
+*   Eigenschutz beachten
+*   Polizei und Jugendamt informieren
+*   Jugendamt überlegt Inobhudname (nach SGB 8 42)
+*   Jugendamt überlegt Gewährung von Hilfen, z.B. Familienhebammen
+*   Jugendamt überlegt regelmäßige Vorstellung beim KJGD
+
+
+## Wie ist der Umgang mit von Behinderung bedrohten Kindern im Gesundheitsamt?
+*   Beruht auf der Grundlage des SGB 9
+*   Zuständig für Mit Behinderung, von Behinderung bedroht UND deren Teilhabe an der Gesellschaft bedroht ist
+*   Leistungsträger (z.B. Sozialamt) kann medizinische Gutachten in Auftrag geben
+*   Die Bedarfsermittlung soll auf Grundlage des ICF erfolgen
+*   KJGD erstellt ICD-10 Diagnosen, Sozialpädagogen beurteilen nach ICF
+*   Einteilung erfolgt nach SGB 12 § 53 (1) oder $ 53 (2) oder SGB 8 §35 (1a)
+
+## Was sind Ersthausbesuche?
+Beim ersten Kind, vierten Kind oder Zugegzogenen erfolgt ein Hausbesuch durch Sozialarbeiter*innen des KJGD
+*   der gesunde Babyschlaf
+*   das Stillen
+*   Vorsorgeuntersuchungen, Kindergesundheit, Unfallverhütung
+*   die frühe Eltern-Kind-Bindung
+*   Beziehungen in der Familie und Erziehung.
+*   Überblick und Kontakte zu Eltern-Kind-Gruppen oder Familienzentren, um der Familie die Vernetzung im Wohnumfeld zu erleichtern.
+*   Informationen zum Thema “Kindertagesbetreuung”
+*   Anträge auf Kinder- und Elterngeld
+*   Sind andere staatliche Hilfen erforderlich? Auch diese Bereiche werden beim Erstbesuch von den Sozialarbeiterinnen des KJGD angesprochen und bei Bedarf Unterstützung angeboten.
+
+Der KJGD kann die Familie danach weiter besuchen am besten mit einer Familienhebamme ansonsten aber auch mit Sozialarbeitern. Bei einer drohenden Misshandlung kann das Jugendamt eingeschaltet werden.
+
+
+## Wie arbeitet der KJGD in Bezug auf Schuleingangsuntersuchungen?
+Die gesetzliche Grundlage ist im Schulgesetz geregelt. Es ist eine kommunale Pflichtaufgabe. Es hat individualmedizinische, sozialkompensatorische und arbeitsmedizinische Aspekte. Untersucht werden
+*   Gewicht, Größe
+*   Sehen und Hören
+*   Körperliche Untersuchung
+*   Verhaltensbeobachtung
+*   Sprache (SOPESS, SENST Entwicklungsscreening)
+
+Es erfolgt eine schulärztliche Stellungnahme
+Wenn eine Auffälligkeit besteht wird weitere Diagnostik empfohlen und Hilfsangebote gemacht. Es kann eine Rückstellung empfohlen werden
+
+## Welche Untersuchungen können während der Schulzeit erfolgen?
+Das ist deutschlandweit sehr unterschiedlich geregelt.
+*   Feststellung eines Förderbedarfs
+*   Schulfähigkeit bei der Erkrankung
+*   Notwendigkeit der Hausbeschulung bei chronischen Erkrankungen
+*   Schulabsenteismus
+*   Überprüfung von Attesten
+*   Untersuchung von Seiteneinsteigenden
+
+## Kitareihenuntersuchung
+Sind ein Mittel der primären Prävention. Die Untersuchung beruht auf dem § 9 des Berliner Kitagesetzes. Erfolgt zwischen 3,5 un4 4,5 Jahren und beinhaltet einen Seh- und Hörtest sowie motorische und sprachliche Auffälligkeiten und Impfstatus
