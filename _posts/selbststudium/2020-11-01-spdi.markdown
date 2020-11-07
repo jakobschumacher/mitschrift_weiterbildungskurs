@@ -7,4 +7,29 @@ permalink: spdi/
 autor: Jakob Schumacher
 ---
 
-# Was ist eine Krise
+# Aufteilung
+1. Psychiatrische Krise
+1. Eingliederungshilfe
+1. Betreuung
+1. Sonstige Gutachten
+1. Koordinative Tätigkeiten
+
+
+# Eingliederungshilfe
+- Ziel ist die Behinderung oder die Folgen zu minimieren, also Teilhabe ermöglichen
+- Die Verteilung vom bezirklichen Kontingent an Leistungen bei psychiatrische Krankheiten werden gesteuert vom Steuerungsgremium
+- Definition Behinderung: Menschen sind behindert, wenn ihre körperliche Funktion, geistige Fähigkeit oder seelische Gesundheit mit hoher Wahrscheinlichkeit länger als sechs Monate von dem für das Lebensalter typischen Zustand abweichen und daher ihre Teilhabe am Leben in der Gesellschaft beeinträchtigt ist. Sie sind von Behinderung bedroht, wenn die Beeinträchtigung zu erwarten ist.
+
+# Betreuung
+- Grundlage BGB 1896
+- Voraussetzungen: Volljährig, nicht gegen den freien Willen, darf aber geschäftsunfähig sein, Bevollmächtigung darf nicht ausreichend sein.
+- Ist Aufgabenspezifisch
+- Unterbringung nur zulässig, wenn
+  - Die Krankheit sowohl die Fähigkeit zur freien Willensbildung beeinträchtigt als auch die Gefährdung verursacht
+  - Kein milderes Mittel verfügbar ist
+  - kein Wille oder gegen den Wille
+  - Verhältnismäßigkeit
+- Unterschiede zum PsychKG: Betreuter hat bei Betreuung Mitspracherechte, Betreuung nicht bei Fremdgefährdung, jegliche Gefahr genügt (muss nicht akut sein)
+- Ärztliche Zwangsmaßnahme bedarf der Genehmigung des Betreuungsgerichtes. Zwangsmaßnahme nicht gegen die Patientenverfügung
+
+# Sonstige Gutachten
