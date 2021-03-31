@@ -212,26 +212,15 @@ GEM
       jekyll-seo-tag (~> 2.1)
     minitest (5.14.4)
     multipart-post (2.1.1)
-<<<<<<< HEAD
     nokogiri (1.11.2)
       mini_portile2 (~> 2.5.0)
       racc (~> 1.4)
     octokit (4.20.0)
-=======
-    nokogiri (1.11.1)
-      mini_portile2 (~> 2.5.0)
-      racc (~> 1.4)
-    octokit (4.18.0)
->>>>>>> 491c802d478161eefe9c2dea4bf2cd388b3eab0c
       faraday (>= 0.9)
       sawyer (~> 0.8.0, >= 0.5.3)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-<<<<<<< HEAD
     public_suffix (4.0.6)
-=======
-    public_suffix (3.1.1)
->>>>>>> 491c802d478161eefe9c2dea4bf2cd388b3eab0c
     racc (1.5.2)
     rb-fsevent (0.10.4)
     rb-inotify (0.10.1)
